@@ -27,3 +27,4 @@ WebSocket 是一种在单个 TCP 连接上进行全双工通信的协议，允�
 
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
+- [[摘要-java-解决方案]] — SSE/连接池方案

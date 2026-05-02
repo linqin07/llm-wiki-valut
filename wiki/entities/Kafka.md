@@ -31,5 +31,5 @@ Apache Kafka 是分布式流处理平台，提供高吞吐、低延迟的消息�
 ## 关联连接
 - [[ZooKeeper]] — 协调服务
 - [[Elasticsearch]] — 数据存储
-- [[Logstash]] — 数据处理
+- Logstash — 数据处理
 - [[摘要-kafka-知识体系]] — 来源

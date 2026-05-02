@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/09-archive/Linux/Nginx/1.安装.md",
+                "file": "template/template模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.安装"
+              "title": "template模板"
+            }
+          },
+          {
+            "id": "23bfab2b9ca5282b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗"
             }
           },
           {
@@ -34,9 +48,23 @@
               "icon": "lucide-file",
               "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗"
             }
+          },
+          {
+            "id": "b6a6c81f31cda4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,6 +115,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "e68bcf55d04ce2f4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -209,29 +247,35 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "7f271d246ef6e029",
+  "active": "57f936e6438e60c0",
   "lastOpenFiles": [
-    "新建文本文档.txt",
-    "CLAUDE.md",
     "README.md",
+    "wiki/entities/WebSocket.md.tmp.10952.1777688002295",
+    "wiki/concepts/B+树索引.md.tmp.10952.1777687987491",
+    "wiki/entities/JHipster.md.tmp.10952.1777687987358",
+    "wiki/entities/Maven.md.tmp.10952.1777687987232",
+    "wiki/entities/Jenkins.md.tmp.10952.1777687986750",
+    "wiki/concepts/Prompt_Engineering.md.tmp.10952.1777687943397",
+    "wiki/entities/Docker.md.tmp.10952.1777687943224",
+    "wiki/concepts/函数式编程.md.tmp.10952.1777687943074",
+    "wiki/concepts/Stream-API.md.tmp.10952.1777687942865",
+    "wiki/entities/OkHttp3.md.tmp.10952.1777687924538",
+    "CLAUDE.md",
+    "raw/01-articles/未命名.md",
     "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+    "template/template模板.md",
+    "assets/未命名.md",
+    "raw/09-archive/Linux/Nginx/1.安装.md",
+    "2026-05-02.md",
     "wiki/entities/MySQL.md",
     "wiki/concepts/数据库隔离级别.md",
     "wiki/sources/摘要-nginx-配置.md",
     "wiki/entities/Nginx.md",
-    "raw/09-archive/Linux/Nginx/1.安装.md",
     "raw/01-articles/cc-捕获-2026-04-08-我是一个新手python小白-根据我的代.md",
-    "tools/capture.py.tmp.10952.1777683217386",
     "raw/01-articles/cc-捕获-2026-04-08-我是一个新手python小白-根据我的代码-给我一个初级教程-生成一个教学文档返.md",
-    "CLAUDE.md.tmp.10952.1777683196551",
     "raw/01-articles/cc-捕获-2026-05-01-claude-exe.md",
-    "tools/capture.py.tmp.10952.1777683156293",
     "raw/01-articles/cc-捕获-2026-04-28-local-command-caveat-caveat-the-message.md",
-    "tools/capture.py.tmp.10952.1777683134630",
     "wiki/concepts/正则表达式.md",
-    "tools/capture.sh.tmp.10952.1777683121671",
-    "tools/capture.py",
-    "tools/capture.py.tmp.10952.1777683112132",
     "wiki/sources/摘要-正则表达式.md",
     "wiki/sources/摘要-数据结构.md",
     "wiki/entities/WebSocket.md",
@@ -240,13 +284,6 @@
     "wiki/entities/Netty.md",
     "wiki/concepts/spring-boot-deployment.md",
     "wiki/entities/Spring_Boot.md",
-    "wiki/concepts/spring-boot-multi-environment.md",
-    "wiki/concepts/spring-boot-scheduled-tasks.md",
-    "wiki/concepts/Visitor_Pattern.md",
-    "wiki/concepts/服务注册中心.md",
-    "tools/capture.sh.tmp.10952.1777682967750",
-    "tools/capture.sh.tmp.10952.1777682930300",
-    "tools/capture.sh.tmp.10952.1777682905731",
     "raw/01-articles/docs/assets/remote-debug.gif",
     "raw/01-articles/docs/assets/mul_thread.gif",
     "raw/01-articles/docs/assets/moniException.gif",

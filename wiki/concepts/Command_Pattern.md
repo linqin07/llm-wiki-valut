@@ -113,6 +113,6 @@ public class Test {
 
 - [[Design_Patterns]] — 设计模式总览
 - [[摘要-design-patterns-java]] — 来源摘要
-- [[Chain_of_Responsibility_Pattern]] — 责任链模式
+- Chain_of_Responsibility_Pattern — 责任链模式
 - [[Memento_Pattern]] — 备忘录模式
 - [[Observer_Pattern]] — 观察者模式

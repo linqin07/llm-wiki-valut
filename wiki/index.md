@@ -23,7 +23,6 @@
 - [[Flyweight_Pattern]] — 享元模式：共享细粒度对象
 
 ### 行为型模式（Behavioral Patterns）
-- [[Chain_of_Responsibility_Pattern]] — 责任链模式：请求发送者与接收者解耦
 - [[Command_Pattern]] — 命令模式：请求封装为对象
 - [[Interpreter_Pattern]] — 解释器模式：语言文法表示
 - [[Iterator_Pattern]] — 迭代器模式：顺序访问聚合对象
@@ -96,6 +95,8 @@
 
 ### 来源
 - [[摘要-spring-boot-知识库]] — Spring Boot 技术知识库综合摘要
+- [[摘要-spring-mvc-实践]] — Spring MVC 统一日志/拦截器/入参/异常/出参处理
+- [[摘要-spring-技术点]] — Spring Bean 生命周期/事务/嵌套失效分析
 
 ---
 
@@ -195,6 +196,9 @@
 ---
 
 ## AI 与大模型
+
+### 概念
+- [[Prompt_Engineering]] — 提示工程：设计和优化 LLM 输入提示的技术学科
 
 ### 来源
 - [[摘要-llm-应用开发]] — AI 产品架构与 Prompt Engineering

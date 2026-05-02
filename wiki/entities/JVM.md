@@ -44,5 +44,7 @@ Bootstrap → Extension → Application 三级，双亲委派模型保证父加�
 ## 关联连接
 - [[Arthas]] — Java 诊断工具
 - [[摘要-jvm-体系结构]] — 来源
-- [[摘要-jvm-参数调优]] — 来源
-- [[摘要-jvm-排查]] — 来源
+- [[摘要-java-复习题]] — Java 面试复习
+- [[摘要-java-基础知识]] — Java 基础
+- 摘要-jvm-参数调优 — 来源
+- 摘要-jvm-排查 — 来源

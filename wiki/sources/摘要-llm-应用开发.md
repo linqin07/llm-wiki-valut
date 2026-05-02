@@ -11,4 +11,4 @@ last_updated: 2026-05-02
 
 ## 关联连接
 - [[Prompt_Engineering]] — 提示工程（已有页面）
-- [[RAG]] — 检索增强生成
+- RAG — 检索增强生成

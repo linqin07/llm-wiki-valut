@@ -34,3 +34,4 @@ MapStruct 是一个 Java 注解处理器，用于生成类型安全的 Bean 映�
 - [[摘要-spring-boot-知识库]] — 来源
 - [[MyBatis]] — ORM 整合
 - [[Spring_Boot]] — 框架整合
+- [[摘要-java-工具类]] — Java 工具类汇总

@@ -35,6 +35,10 @@ Spring Boot 是基于 Spring 框架的快速开发脚手架，通过约定优于
 ## 关联连接
 
 - [[摘要-spring-boot-知识库]] — 来源
+- [[摘要-spring-mvc-实践]] — Spring MVC 实践
+- [[摘要-spring-技术点]] — Bean/事务/嵌套分析
+- [[spring-boot-json]] — JSON 序列化
+- [[spring-boot-logback]] — 日志配置
 - [[spring-boot-auto-configuration]] — 自动装配机制
 - [[spring-boot-deployment]] — 部署方式
 - [[spring-boot-multi-environment]] — 多环境配置

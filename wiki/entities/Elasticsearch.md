@@ -25,7 +25,8 @@ hash(document_id) % num_primary_shards → 写入 translog + 内存缓冲 → 1 
 - 冷热分离：node.attr.box_type 标签 + 路由分配策略
 
 ## 关联连接
-- [[Logstash]] — 数据处理
-- [[Kibana]] — 可视化
+- Logstash — 数据处理
+- Kibana — 可视化
 - [[Kafka]] — 数据管道
 - [[摘要-elasticsearch-运维]] — 来源
+- [[摘要-elk-其他组件]] — ELK 其他组件

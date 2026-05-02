@@ -11,4 +11,4 @@ ZooKeeper 知识体系共 6 篇，涵盖核心概念（Znode/临时节点/永久
 
 ## 关联连接
 - [[ZooKeeper]] — 分布式协调实体
-- [[Apache_Curator]] — 客户端
+- Apache_Curator — 客户端

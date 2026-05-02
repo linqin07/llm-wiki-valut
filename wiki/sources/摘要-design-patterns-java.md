@@ -36,7 +36,7 @@ last_updated: 2026-05-01
 - [[Proxy_Pattern]] — 代理模式
 - [[Composite_Pattern]] — 组合模式
 - [[Flyweight_Pattern]] — 享元模式
-- [[Chain_of_Responsibility_Pattern]] — 责任链模式
+- Chain_of_Responsibility_Pattern — 责任链模式
 - [[Command_Pattern]] — 命令模式
 - [[Interpreter_Pattern]] — 解释器模式
 - [[Iterator_Pattern]] — 迭代器模式

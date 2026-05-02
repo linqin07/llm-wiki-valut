@@ -76,3 +76,4 @@ last_updated: 2026-04-12
 ## 关联连接
 - [[Design_Patterns]] — 设计模式总览（相关领域）
 - [[摘要-design-patterns-java]] — 设计模式来源摘要
+- [[摘要-llm-应用开发]] — LLM 应用开发

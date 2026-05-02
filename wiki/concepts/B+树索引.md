@@ -66,3 +66,4 @@ SELECT * FROM table_name FORCE INDEX(index_name) WHERE condition;
 - [[InnoDB]] — 索引实现
 - [[SQL优化]] — 索引优化
 - [[摘要-mysql-技术内幕]] — 来源
+- [[摘要-数据结构]] — 数据结构汇总

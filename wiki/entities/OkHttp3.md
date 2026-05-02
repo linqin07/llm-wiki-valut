@@ -18,4 +18,5 @@ OkHttp3 是 Square 开发的高效 HTTP 客户端，支持 HTTP/2、连接池、
 - 支持异步文件上传（MultipartBody）和下载
 
 ## 关联连接
-- [[摘要-okhttp-工具类]] — 来源
+- 摘要-okhttp-工具类 — 来源
+- [[摘要-java-工具类]] — Java 工具类汇总

@@ -18,4 +18,4 @@ synchronized 是 Java 内置的关键字，用于实现线程同步和互斥访�
 
 ## 关联连接
 - [[JVM]] — 锁实现原理
-- [[摘要-synchronized-验证]] — 来源
+- 摘要-synchronized-验证 — 来源

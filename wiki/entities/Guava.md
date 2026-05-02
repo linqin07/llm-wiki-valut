@@ -18,4 +18,5 @@ Guava 是 Google 开发的核心 Java 库，提供集合、缓存、并发、字
 - **集合运算**：Sets.difference/intersection/union
 
 ## 关联连接
-- [[摘要-guava-常用]] — 来源
+- 摘要-guava-常用 — 来源
+- [[摘要-java-工具类]] — Java 工具类汇总

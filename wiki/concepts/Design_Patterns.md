@@ -49,7 +49,7 @@ GoF（Gang of Four）将 23 种设计模式分为三大类：
 
 | 模式 | 意图 | 核心问题 |
 |------|------|----------|
-| [[Chain_of_Responsibility_Pattern]] | 将请求的发送者和接收者解耦 | 多个对象可以处理请求，处理者不确定 |
+| Chain_of_Responsibility_Pattern | 将请求的发送者和接收者解耦 | 多个对象可以处理请求，处理者不确定 |
 | [[Command_Pattern]] | 将请求封装为对象 | 需要将请求排队、记录日志或支持撤销 |
 | [[Interpreter_Pattern]] | 定义语言的文法表示 | 需要解释执行特定语言 |
 | [[Iterator_Pattern]] | 提供顺序访问聚合对象元素的方法 | 需要遍历集合而不暴露其内部结构 |

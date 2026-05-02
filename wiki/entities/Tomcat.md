@@ -19,4 +19,4 @@ Apache Tomcat 是 Java Servlet 容器和 Web 服务器，用于部署 Java Web �
 ## 关联连接
 - [[IntelliJ_IDEA]] — IDE 集成部署
 - [[spring-boot-deployment]] — Spring Boot 内嵌 Tomcat
-- [[摘要-tomcat-部署]] — 来源
+- 摘要-tomcat-部署 — 来源

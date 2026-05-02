@@ -11,5 +11,5 @@ Elasticsearch 运维共 12 篇，全面覆盖 ES 的架构原理（集群/节点
 
 ## 关联连接
 - [[Elasticsearch]] — 搜索引擎实体
-- [[Logstash]] — 数据处理
-- [[Kibana]] — 可视化
+- Logstash — 数据处理
+- Kibana — 可视化

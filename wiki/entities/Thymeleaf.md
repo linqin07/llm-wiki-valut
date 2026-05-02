@@ -27,4 +27,4 @@ Thymeleaf 是一个现代化的服务器端 Java 模板引擎，适用于 Web �
 
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
-- [[JSP]] — 替代方案
+- JSP — 替代方案

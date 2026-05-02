@@ -20,4 +20,4 @@ SPI（Service Provider Interface）是 JDK 内置的服务发现机制，通过 
 - 典型应用：JDBC 驱动加载、日志框架切换
 
 ## 关联连接
-- [[摘要-spi-动态加载]] — 来源
+- 摘要-spi-动态加载 — 来源

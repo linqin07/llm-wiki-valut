@@ -52,3 +52,6 @@ SELECT VERSION();
 - [[binlog]] — 归档日志
 - [[摘要-mysql-技术内幕]] — 来源
 - [[摘要-mysql-基础知识]] — 来源
+- [[摘要-mysql-安装]] — 安装与配置
+- [[摘要-mysql-sql面试题]] — SQL 面试题
+- [[Oracle]] — 另一主流 RDBMS

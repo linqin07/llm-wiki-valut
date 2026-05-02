@@ -25,4 +25,4 @@ Lombok 是一个 Java 库，通过注解自动生成 getter/setter/构造方法�
 ## 关联连接
 - [[IntelliJ_IDEA]] — IDE 集成
 - [[MapStruct]] — 编译冲突需注意
-- [[摘要-lombok-使用]] — 来源
+- 摘要-lombok-使用 — 来源

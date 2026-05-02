@@ -37,7 +37,7 @@ which obsidian-cli  # 返回 NOT_FOUND
 
 ### 问题
 > 检测obsidian相关skill能否使用
-
+ 
 ### 解决过程
 让我测试几个 obsidian 相关的 skill。
 

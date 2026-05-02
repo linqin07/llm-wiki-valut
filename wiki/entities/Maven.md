@@ -28,4 +28,5 @@ Apache Maven 是 Java 项目的构建和依赖管理工具，通过 POM 文件�
 ## 关联连接
 - [[Nexus]] — Maven 私服
 - [[Jenkins]] — CI/CD 集成
-- [[摘要-maven-使用]] — 来源
+- 摘要-maven-使用 — 来源
+- [[摘要-构建工具]] — 构建工具汇总
