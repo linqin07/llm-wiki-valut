@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "e5cd35d9332c829e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0f8dacf484bc15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588ce7b2f8c54530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/09-archive/Linux/Nginx/1.安装.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.安装"
+            }
+          },
+          {
+            "id": "57f936e6438e60c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3edf99a8fd70b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a3250fec2c5d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f271d246ef6e029",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "76f7664f14280579",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0eb6d6e1dc25661a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83d87c734ac54873",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca8133ea71afd8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c222ff20edc04dbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗 的反向链接列表"
+            }
+          },
+          {
+            "id": "11c04b706e10d6c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗 的出链列表"
+            }
+          },
+          {
+            "id": "0f882cd682c97aef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7f9d0b49acd8fd70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cdbffff9f126543c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗 的大纲"
+            }
+          },
+          {
+            "id": "ccbcd6d3541f9ae5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 509.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "7f271d246ef6e029",
+  "lastOpenFiles": [
+    "新建文本文档.txt",
+    "CLAUDE.md",
+    "README.md",
+    "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md",
+    "wiki/entities/MySQL.md",
+    "wiki/concepts/数据库隔离级别.md",
+    "wiki/sources/摘要-nginx-配置.md",
+    "wiki/entities/Nginx.md",
+    "raw/09-archive/Linux/Nginx/1.安装.md",
+    "raw/01-articles/cc-捕获-2026-04-08-我是一个新手python小白-根据我的代.md",
+    "tools/capture.py.tmp.10952.1777683217386",
+    "raw/01-articles/cc-捕获-2026-04-08-我是一个新手python小白-根据我的代码-给我一个初级教程-生成一个教学文档返.md",
+    "CLAUDE.md.tmp.10952.1777683196551",
+    "raw/01-articles/cc-捕获-2026-05-01-claude-exe.md",
+    "tools/capture.py.tmp.10952.1777683156293",
+    "raw/01-articles/cc-捕获-2026-04-28-local-command-caveat-caveat-the-message.md",
+    "tools/capture.py.tmp.10952.1777683134630",
+    "wiki/concepts/正则表达式.md",
+    "tools/capture.sh.tmp.10952.1777683121671",
+    "tools/capture.py",
+    "tools/capture.py.tmp.10952.1777683112132",
+    "wiki/sources/摘要-正则表达式.md",
+    "wiki/sources/摘要-数据结构.md",
+    "wiki/entities/WebSocket.md",
+    "wiki/entities/Thymeleaf.md",
+    "wiki/entities/Swagger.md",
+    "wiki/entities/Netty.md",
+    "wiki/concepts/spring-boot-deployment.md",
+    "wiki/entities/Spring_Boot.md",
+    "wiki/concepts/spring-boot-multi-environment.md",
+    "wiki/concepts/spring-boot-scheduled-tasks.md",
+    "wiki/concepts/Visitor_Pattern.md",
+    "wiki/concepts/服务注册中心.md",
+    "tools/capture.sh.tmp.10952.1777682967750",
+    "tools/capture.sh.tmp.10952.1777682930300",
+    "tools/capture.sh.tmp.10952.1777682905731",
+    "raw/01-articles/docs/assets/remote-debug.gif",
+    "raw/01-articles/docs/assets/mul_thread.gif",
+    "raw/01-articles/docs/assets/moniException.gif",
+    "raw/01-articles/docs/assets/KmCudlf7D-OAEjy8AABoxGLnMI4173.png",
+    "raw/01-articles/docs/assets/image-20220427005435091.png",
+    "raw/01-articles/docs/assets/image-20220331105236128.png",
+    "raw/01-articles/docs/assets/image-20220331105024565.png",
+    "raw/01-articles/docs/assets/image-20220318004710462.png",
+    "raw/01-articles/docs/assets/image-20220308001024295.png",
+    "raw/01-articles/docs/assets/image-20220307235947950.png"
+  ]
+}

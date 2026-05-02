@@ -1,0 +1,41 @@
+# === Claudian 插件 (机器特定会话) ===
+.claudian/sessions/
+
+# === 操作系统 ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs_vista.db
+Desktop.ini
+
+# === 崩溃转储 ===
+*.stackdump
+
+# === 编辑器 / IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === Python 运行时 ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.venv/
+venv/
+
+# === Node.js (如有需要) ===
+node_modules/
+
+# === 临时文件 ===
+*.tmp
+*.bak
+*.log

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"E:\\\\llm-wiki-vault\\\\raw\\\\01-articles\" /b)",
+      "Bash(obsidian read *)",
+      "Bash(where obsidian *)",
+      "Bash(cmd.exe *)",
+      "Bash(obsidian *)",
+      "Bash(grep -v \"^raw$\\\\|^wiki$\\\\|^assets$\\\\|\\\\.obsidian$\\\\|\\\\.claude$\\\\|^CLAUDE\\\\.md$\\\\|^README\\\\.md$\\\\|^bash\\\\.exe\\\\.stackdump$\")",
+      "WebSearch"
+    ]
+  }
+}
