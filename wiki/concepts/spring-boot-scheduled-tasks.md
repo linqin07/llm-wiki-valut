@@ -2,7 +2,9 @@
 title: "spring-boot-scheduled-tasks"
 type: concept
 tags: [Spring Boot, 定时任务, 调度]
-sources: [raw/01-articles/Spring-boot/定时任务/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -36,3 +38,4 @@ last_updated: 2026-05-01
 
 - [[Spring_Boot]] — 框架实体
 - [[摘要-spring-boot-知识库]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/定时任务]] — 原始素材

@@ -2,7 +2,9 @@
 title: "MongoDB"
 type: entity
 tags: [NoSQL, 文档数据库, 开源]
-sources: [raw/01-articles/Linux/MongoDb/find.md, raw/01-articles/Linux/MongoDb/常用命令.md]
+sources:
+  - "[[摘要-mongodb-使用]]"
+actionLink: "[[raw/09-archive/Linux/MongoDb/find]]"
 last_updated: 2026-05-02
 ---
 
@@ -20,4 +22,9 @@ MongoDB 是面向文档的 NoSQL 数据库，以 BSON 格式存储数据，支�
 通过 Criteria.andOperator 组合动态条件查询。
 
 ## 关联连接
+- [[Redis]] — 缓存层搭配
+- [[Elasticsearch]] — 全文检索对比
+- [[Docker]] — 容器化部署
 - [[摘要-mongodb-使用]] — 来源
+- [[raw/09-archive/Linux/MongoDb/find]] — 原始素材
+- [[raw/09-archive/Linux/MongoDb/常用命令]] — 原始素材

@@ -2,7 +2,9 @@
 title: "Docker"
 type: entity
 tags: [容器, DevOps, 开源]
-sources: [raw/01-articles/Linux/docker/1.简介安装.md, raw/01-articles/Linux/docker/2.Docker用法.md]
+sources:
+  - "[[摘要-docker-使用]]"
+actionLink: "[[raw/09-archive/Linux/docker/1.简介安装]]"
 last_updated: 2026-05-02
 ---
 
@@ -22,7 +24,9 @@ Docker 是开源的容器化平台，通过 CS 架构（daemon + client）实现
 
 ## 关联连接
 - [[Nexus]] — 私服搭建
-- Kubernetes — 容器编排
+- [[Kubernetes]] — 容器编排
 - [[摘要-docker-使用]] — 来源
 - [[摘要-linux-shell-脚本]] — Shell 脚本
 - [[摘要-linux-系统运维]] — Linux 运维
+- [[raw/09-archive/Linux/docker/1.简介安装]] — 原始素材
+- [[raw/09-archive/Linux/docker/2.Docker用法]] — 原始素材

@@ -2,7 +2,11 @@
 title: "Elasticsearch"
 type: entity
 tags: [搜索引擎, ELK, 分布式, 开源]
-sources: [raw/01-articles/Linux/ELK/ES/1.认识.md, raw/01-articles/Linux/ELK/ES/2.倒排索引.md, raw/01-articles/Linux/ELK/ES/3.索引模板.md, raw/01-articles/Linux/ELK/ES/4.安装.md, raw/01-articles/Linux/ELK/ES/5.ES数据冷热分离.md, raw/01-articles/Linux/ELK/ES/6.数据分片迁移.md, raw/01-articles/Linux/ELK/ES/7.常用命令.md, raw/01-articles/Linux/ELK/ES/8.快照和恢复.md, raw/01-articles/Linux/ELK/ES/9.x-pack插件.md, raw/01-articles/Linux/ELK/ES/10.常用api.md, raw/01-articles/Linux/ELK/ES/11.优化.md, raw/01-articles/Linux/ELK/ES/12.es-sql.md]
+sources:
+  - "[[摘要-elasticsearch-运维]]"
+  - "[[摘要-elk-其他组件]]"
+  # 另有 10 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/Linux/ELK/ES/1.认识]]"
 last_updated: 2026-05-02
 ---
 
@@ -25,8 +29,20 @@ hash(document_id) % num_primary_shards → 写入 translog + 内存缓冲 → 1 
 - 冷热分离：node.attr.box_type 标签 + 路由分配策略
 
 ## 关联连接
-- Logstash — 数据处理
-- Kibana — 可视化
+- [[Logstash]] — 数据处理
+- [[Kibana]] — 可视化
 - [[Kafka]] — 数据管道
 - [[摘要-elasticsearch-运维]] — 来源
 - [[摘要-elk-其他组件]] — ELK 其他组件
+- [[raw/09-archive/Linux/ELK/ES/1.认识]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/2.倒排索引]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/3.索引模板]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/4.安装]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/5.ES数据冷热分离]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/6.数据分片迁移]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/7.常用命令]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/8.快照和恢复]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/9.x-pack插件]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/10.常用api]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/11.优化]] — 原始素材
+- [[raw/09-archive/Linux/ELK/ES/12.es-sql]] — 原始素材

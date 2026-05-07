@@ -2,7 +2,9 @@
 title: "SPI 机制"
 type: concept
 tags: [Java, 服务发现, JDK]
-sources: [raw/01-articles/Java学习/基础知识/3.SPI接口动态加载.md]
+sources:
+  - "[[摘要-java-基础知识]]"
+actionLink: "[[raw/09-archive/Java学习/基础知识/3.SPI接口动态加载]]"
 last_updated: 2026-05-02
 ---
 
@@ -20,4 +22,7 @@ SPI（Service Provider Interface）是 JDK 内置的服务发现机制，通过 
 - 典型应用：JDBC 驱动加载、日志框架切换
 
 ## 关联连接
-- 摘要-spi-动态加载 — 来源
+- [[MyBatis]] — JDBC 驱动加载使用 SPI
+- [[函数式编程]] — ServiceLoader 配合 Lambda
+- [[摘要-java-基础知识]] — 来源摘要
+- [[raw/09-archive/Java学习/基础知识/3.SPI接口动态加载]] — 原始素材

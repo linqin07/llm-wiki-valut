@@ -2,7 +2,9 @@
 title: "Oracle"
 type: entity
 tags: [数据库, RDBMS, 商业数据库]
-sources: [raw/01-articles/mysql/Oracle试题.md]
+sources:
+  - "[[摘要-mysql-sql面试题]]"
+actionLink: "[[raw/09-archive/mysql/Oracle试题]]"
 last_updated: 2026-05-01
 ---
 
@@ -75,3 +77,10 @@ SELECT * FROM (
 ## 关联连接
 
 - [[MySQL]] — 对比数据库系统
+- [[ACID事务]] — 事务特性
+- [[B+树索引]] — 索引实现
+- [[数据库隔离级别]] — 隔离级别
+- [[SQL优化]] — SQL 性能优化
+- [[分库分表]] — 分片策略
+- [[摘要-mysql-sql面试题]] — 来源
+- [[raw/09-archive/mysql/Oracle试题]] — 原始素材

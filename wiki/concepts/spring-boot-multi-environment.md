@@ -2,7 +2,9 @@
 title: "spring-boot-multi-environment"
 type: concept
 tags: [Spring Boot, 配置, 多环境]
-sources: [raw/01-articles/Spring-boot/通用/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -32,3 +34,4 @@ last_updated: 2026-05-01
 - [[Spring_Boot]] — 框架实体
 - [[spring-boot-deployment]] — 部署配置
 - [[摘要-spring-boot-知识库]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/通用]] — 原始素材

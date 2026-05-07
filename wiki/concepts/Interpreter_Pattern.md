@@ -3,7 +3,8 @@ title: "解释器模式（Interpreter Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 语法解析]
 sources:
-  - raw/01-articles/设计模式/15.解析器模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/解释器模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -111,3 +112,4 @@ public class Test {
 - [[Design_Patterns]] — 设计模式总览
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Visitor_Pattern]] — 访问者模式
+- [[raw/09-archive/设计模式/解析器模式]] — 原始素材

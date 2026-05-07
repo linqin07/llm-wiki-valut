@@ -3,7 +3,8 @@ title: "建造者模式（Builder Pattern）"
 type: concept
 tags: [设计模式, 创建型模式, Java]
 sources:
-  - raw/01-articles/设计模式/4.建造者模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/建造者模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -95,3 +96,4 @@ public class Computer {
 - [[Factory_Pattern]] — 工厂模式
 - [[Abstract_Factory_Pattern]] — 抽象工厂模式
 - [[Prototype_Pattern]] — 原型模式
+- [[raw/09-archive/设计模式/建造者模式]] — 原始素材

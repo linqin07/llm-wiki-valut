@@ -2,7 +2,9 @@
 title: "Nginx"
 type: entity
 tags: [Web服务器, 反向代理, 负载均衡, 开源]
-sources: [raw/01-articles/Linux/Nginx/1.安装.md, raw/01-articles/Linux/Nginx/2.配置.md]
+sources:
+  - "[[摘要-nginx-配置]]"
+actionLink: "[[raw/09-archive/Linux/Nginx/1.安装]]"
 last_updated: 2026-05-02
 ---
 
@@ -23,3 +25,5 @@ Nginx 是高性能的 HTTP 和反向代理服务器，也用作负载均衡器�
 ## 关联连接
 - [[Docker]] — 容器中部署
 - [[摘要-nginx-配置]] — 来源
+- [[raw/09-archive/Linux/Nginx/1.安装]] — 原始素材
+- [[raw/09-archive/Linux/Nginx/2.配置]] — 原始素材

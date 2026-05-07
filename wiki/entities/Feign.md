@@ -2,7 +2,9 @@
 title: "Feign"
 type: entity
 tags: [Spring-Cloud, HTTP客户端, 声明式调用, RPC]
-sources: [raw/01-articles/SpringCloud/6.feign.md]
+sources:
+  - "[[摘要-spring-cloud-微服务]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/SpringCloud]]"
 last_updated: 2026-05-01
 ---
 
@@ -38,4 +40,6 @@ someThing(queryStr);
 ## 关联连接
 - [[摘要-spring-cloud-微服务]] — 来源
 - [[Spring_Cloud_Gateway]] — 网关路由到 Feign 服务
+- [[OkHttp3]] — HTTP 客户端（底层实现）
 - [[Spring_Boot]] — 基础框架
+- [[raw/09-archive/设计模式/raw/09-archive/SpringCloud/6.feign]] — 原始素材

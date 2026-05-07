@@ -2,7 +2,9 @@
 title: "MyBatis-Plus"
 type: entity
 tags: [MyBatis-Plus, ORM, 代码生成, 增强]
-sources: [raw/01-articles/Spring-boot/spring-boot-代码生成/MyBatis-Plus.md]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/Spring-boot/spring-boot-代码生成/MyBatis-Plus]]"
 last_updated: 2026-05-01
 ---
 
@@ -30,3 +32,4 @@ MyBatis-Plus 是 MyBatis 的增强工具，在 MyBatis 的基础上只做增强�
 - [[摘要-spring-boot-知识库]] — 来源
 - [[MyBatis]] — 基础框架
 - [[Spring_Boot]] — 框架整合
+- [[raw/09-archive/Spring-boot/spring-boot-代码生成/MyBatis-Plus]] — 原始素材

@@ -1,24 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "06-Agent循环与流式输出",
+      "path": "raw/01-articles/ai-agent开发/06-Agent循环与流式输出.md"
+    },
+    {
+      "basename": "05-Agent基础",
+      "path": "raw/01-articles/ai-agent开发/05-Agent基础.md"
+    },
+    {
+      "basename": "04-自定义工具",
+      "path": "raw/01-articles/ai-agent开发/04-自定义工具.md"
+    },
+    {
+      "basename": "28-意图识别系统",
+      "path": "raw/01-articles/ai-agent开发/28-意图识别系统.md"
+    },
+    {
+      "basename": "README",
+      "path": "raw/01-articles/ai-agent开发/README.md"
+    },
+    {
+      "basename": "00-概述与环境搭建",
+      "path": "raw/01-articles/ai-agent开发/00-概述与环境搭建.md"
+    },
+    {
+      "basename": "2.Guava EventBus实现",
+      "path": "raw/09-archive/设计模式/观察者模式/2.Guava EventBus实现.md"
+    },
+    {
+      "basename": "1.工厂模式",
+      "path": "raw/09-archive/设计模式/工厂模式/1.工厂模式.md"
+    },
+    {
+      "basename": "1.接口实现",
+      "path": "raw/09-archive/设计模式/观察者模式/1.接口实现.md"
+    },
+    {
+      "basename": "README",
+      "path": "raw/09-archive/设计模式/模板模式/README.md"
+    },
+    {
+      "basename": "模版模式",
+      "path": "raw/09-archive/设计模式/模板模式/模版模式.md"
+    },
+    {
       "basename": "cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗",
       "path": "raw/01-articles/cc-捕获-2026-05-01-有用到了obsidian-cli工具了吗.md"
     },
     {
       "basename": "README",
-      "path": "README.md"
+      "path": "raw/09-archive/Spring-boot/README.md"
+    },
+    {
+      "basename": "Graphql",
+      "path": "raw/09-archive/Spring-boot/Graphql.md"
+    },
+    {
+      "basename": "B+树索引",
+      "path": "wiki/concepts/B+树索引.md"
+    },
+    {
+      "basename": "InnoDB",
+      "path": "wiki/entities/InnoDB.md"
+    },
+    {
+      "basename": "Mysql技术内幕",
+      "path": "raw/09-archive/mysql/Mysql技术内幕.md"
+    },
+    {
+      "basename": "log",
+      "path": "wiki/log.md"
     },
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "常用注解",
+      "path": "raw/09-archive/Spring-boot/通用/常用注解.md"
+    },
+    {
+      "basename": "Composite_Pattern",
+      "path": "wiki/concepts/Composite_Pattern.md"
+    },
+    {
+      "basename": "Design_Patterns",
+      "path": "wiki/concepts/Design_Patterns.md"
+    },
+    {
+      "basename": "Memento_Pattern",
+      "path": "wiki/concepts/Memento_Pattern.md"
+    },
+    {
+      "basename": "README ",
+      "path": "raw/09-archive/设计模式/责任链模式/README .md"
+    },
+    {
+      "basename": "State_Pattern",
+      "path": "wiki/concepts/State_Pattern.md"
+    },
+    {
+      "basename": "Chain_of_Responsibility_Pattern",
+      "path": "wiki/concepts/Chain_of_Responsibility_Pattern.md"
+    },
+    {
+      "basename": "报销流程例子",
+      "path": "raw/09-archive/设计模式/责任链模式/报销流程例子.md"
+    },
+    {
+      "basename": "springboot定时任务的几种方式",
+      "path": "raw/09-archive/Spring-boot/定时任务/springboot定时任务的几种方式.md"
+    },
+    {
+      "basename": "整合quartz定时任务调度框架",
+      "path": "raw/09-archive/Spring-boot/定时任务/整合quartz定时任务调度框架.md"
+    },
+    {
+      "basename": "2.SpringCloud-cli",
+      "path": "raw/09-archive/SpringCloud/2.SpringCloud-cli.md"
+    },
+    {
+      "basename": "deploy依赖到私服排除jar",
+      "path": "raw/09-archive/Spring-boot/spring-boot打包部署/deploy依赖到私服排除jar.md"
+    },
+    {
       "basename": "template模板",
       "path": "template/template模板.md"
     },
     {
-      "basename": "1.安装",
-      "path": "raw/09-archive/Linux/Nginx/1.安装.md"
+      "basename": "摘要-spring-boot-知识库",
+      "path": "wiki/sources/摘要-spring-boot-知识库.md"
+    },
+    {
+      "basename": "spring-boot-auto-configuration",
+      "path": "wiki/concepts/spring-boot-auto-configuration.md"
+    },
+    {
+      "basename": "统计胜负",
+      "path": "raw/09-archive/mysql/sql面试题/统计胜负.md"
+    },
+    {
+      "basename": "摘要-mysql-技术内幕",
+      "path": "wiki/sources/摘要-mysql-技术内幕.md"
+    },
+    {
+      "basename": "binlog",
+      "path": "wiki/concepts/binlog.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/index.md"
+    },
+    {
+      "basename": "摘要-java-复习题",
+      "path": "wiki/sources/摘要-java-复习题.md"
+    },
+    {
+      "basename": "为什么接口要实现Impl",
+      "path": "raw/09-archive/复习题/面试题/为什么接口要实现Impl.md"
+    },
+    {
+      "basename": "面试题目",
+      "path": "raw/09-archive/复习题/面试题/面试题目.md"
+    },
+    {
+      "basename": "常见坑点问题",
+      "path": "raw/09-archive/复习题/面试题/常见坑点问题.md"
+    },
+    {
+      "basename": "摘要-jdk8-新特性",
+      "path": "wiki/sources/摘要-jdk8-新特性.md"
+    },
+    {
+      "basename": "函数式接口",
+      "path": "raw/09-archive/Java学习/JDK8/函数式接口.md"
+    },
+    {
+      "basename": "Java8 时间日期",
+      "path": "raw/09-archive/Java学习/JDK8/Java8 时间日期.md"
+    },
+    {
+      "basename": "Stream流",
+      "path": "raw/09-archive/Java学习/JDK8/Stream流.md"
+    },
+    {
+      "basename": "Observer_Pattern",
+      "path": "wiki/concepts/Observer_Pattern.md"
+    },
+    {
+      "basename": "多数据源使用",
+      "path": "raw/09-archive/Spring-boot/spring-boot-druid/多数据源使用.md"
+    },
+    {
+      "basename": "Druid",
+      "path": "wiki/entities/Druid.md"
     }
   ],
   "omittedPaths": [],

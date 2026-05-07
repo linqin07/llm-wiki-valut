@@ -2,7 +2,9 @@
 title: "摘要-python-环境配置"
 type: source
 tags: [来源, Python, conda, pip]
-sources: [raw/01-articles/python学习/python笔记]
+sources:
+  - "raw/09-archive/python学习/python笔记"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/python学习/python笔记]]"
 last_updated: 2026-05-02
 ---
 
@@ -11,3 +13,4 @@ Python 环境配置笔记，涵盖 conda 环境管理（创建/激活/删除/镜
 
 ## 关联连接
 - Conda — Python 环境管理
+- [[raw/09-archive/设计模式/raw/09-archive/python学习/python笔记]] — 原始素材

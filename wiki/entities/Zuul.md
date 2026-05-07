@@ -2,7 +2,9 @@
 title: "Zuul"
 type: entity
 tags: [Spring-Cloud, Netflix, 网关, 路由]
-sources: [raw/01-articles/SpringCloud/5.zuul 网关.md]
+sources:
+  - "[[摘要-spring-cloud-微服务]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/SpringCloud/5.zuul 网关]]"
 last_updated: 2026-05-01
 ---
 
@@ -39,3 +41,4 @@ zuul.routes.vpa-skill.serviceId=vpa-service-skill
 - [[服务网关]] — 核心概念
 - [[Spring_Cloud_Gateway]] — 替代方案
 - [[Spring_Boot]] — 基础框架
+- [[raw/09-archive/设计模式/raw/09-archive/SpringCloud/5.zuul 网关]] — 原始素材

@@ -2,7 +2,9 @@
 title: "Netty"
 type: entity
 tags: [网络框架, Java, 异步, 事件驱动]
-sources: [raw/01-articles/Java学习/Netty/Netty实战.md]
+sources:
+  - "[[摘要-netty-实战]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/Netty/Netty实战]]"
 last_updated: 2026-05-02
 ---
 
@@ -31,6 +33,7 @@ Netty 是基于 Java NIO 的异步事件驱动网络应用框架，简化了 TCP
 仅在 NIO 和 Epoll 传输时可用，可显著提升 FTP/HTTP 等协议性能。
 
 ## 关联连接
-- 事件驱动 — 设计模式
-- 异步非阻塞IO — IO 模型
+- [[Observer_Pattern]] — 观察者模式（事件驱动）
+- NIO — 异步非阻塞 IO 模型
 - [[摘要-netty-实战]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/Netty/Netty实战]] — 原始素材

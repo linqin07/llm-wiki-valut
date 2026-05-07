@@ -2,7 +2,9 @@
 title: "CAP定理"
 type: concept
 tags: [分布式系统, 理论基础, CAP]
-sources: [raw/01-articles/SpringCloud/1.Eureka服务注册中心.md]
+sources:
+  - "[[摘要-spring-cloud-微服务]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/SpringCloud]]"
 last_updated: 2026-05-01
 ---
 
@@ -39,3 +41,4 @@ CAP 定理（CAP Theorem）是分布式系统领域的著名理论，指出在�
 - [[Eureka]] — AP 模型实践
 - [[Nacos]] — 支持 AP/CP 切换
 - [[摘要-spring-cloud-微服务]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/SpringCloud/1.Eureka服务注册中心]] — 原始素材

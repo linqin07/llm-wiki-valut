@@ -3,7 +3,8 @@ title: "抽象工厂模式（Abstract Factory Pattern）"
 type: concept
 tags: [设计模式, 创建型模式, Java]
 sources:
-  - raw/01-articles/设计模式/2.抽象工厂模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/抽象工厂模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -43,3 +44,4 @@ last_updated: 2026-05-01
 - [[Factory_Pattern]] — 工厂模式
 - [[Singleton_Pattern]] — 单例模式
 - [[Builder_Pattern]] — 建造者模式
+- [[raw/09-archive/设计模式/抽象工厂模式]] — 原始素材

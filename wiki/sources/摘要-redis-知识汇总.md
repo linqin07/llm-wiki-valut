@@ -2,7 +2,9 @@
 title: "摘要-redis-知识汇总"
 type: source
 tags: [来源, Redis, 缓存]
-sources: [raw/01-articles/Linux/Redis/Redis 知识汇总.md]
+sources:
+  - "raw/09-archive/Linux/Redis/Redis 知识汇总.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Linux/Redis/Redis 知识汇总]]"
 last_updated: 2026-05-02
 ---
 
@@ -11,3 +13,4 @@ Redis 知识汇总 1 篇，全面覆盖源码编译安装、单机配置、Clust
 
 ## 关联连接
 - [[Redis]] — 缓存实体
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/Redis/Redis 知识汇总]] — 原始素材

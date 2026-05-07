@@ -3,7 +3,8 @@ title: "摘要-设计模式-Java实现"
 type: source
 tags: [设计模式, GoF, Java, 来源]
 sources:
-  - raw/01-articles/设计模式/
+  - "raw/09-archive/设计模式/"
+actionLink: "[[raw/09-archive/设计模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -36,7 +37,7 @@ last_updated: 2026-05-01
 - [[Proxy_Pattern]] — 代理模式
 - [[Composite_Pattern]] — 组合模式
 - [[Flyweight_Pattern]] — 享元模式
-- Chain_of_Responsibility_Pattern — 责任链模式
+- [[Chain_of_Responsibility_Pattern]] — 责任链模式
 - [[Command_Pattern]] — 命令模式
 - [[Interpreter_Pattern]] — 解释器模式
 - [[Iterator_Pattern]] — 迭代器模式
@@ -47,3 +48,4 @@ last_updated: 2026-05-01
 - [[Strategy_Pattern]] — 策略模式
 - [[Template_Method_Pattern]] — 模板模式
 - [[Visitor_Pattern]] — 访问者模式
+- [[raw/09-archive/设计模式]] — 原始素材

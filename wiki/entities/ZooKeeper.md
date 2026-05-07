@@ -2,7 +2,10 @@
 title: "ZooKeeper"
 type: entity
 tags: [分布式协调, Apache, 开源]
-sources: [raw/01-articles/Linux/zookeeper/1.简介.md, raw/01-articles/Linux/zookeeper/2.下载安装zk.md, raw/01-articles/Linux/zookeeper/3.zk命令.md, raw/01-articles/Linux/zookeeper/4.原生API.md, raw/01-articles/Linux/zookeeper/5.应用场景.md, raw/01-articles/Linux/zookeeper/6.Apache Curator客户端API.md]
+sources:
+  - "[[摘要-zookeeper-知识体系]]"
+  # 另有 5 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/Linux/zookeeper/1.简介]]"
 last_updated: 2026-05-02
 ---
 
@@ -28,5 +31,11 @@ ZooKeeper 是分布式协调服务，提供分布式锁、配置维护、Master 
 
 ## 关联连接
 - [[Kafka]] — 依赖 ZooKeeper
-- 分布式锁 — 应用场景
+- [[分布式锁]] — 应用场景
 - [[摘要-zookeeper-知识体系]] — 来源
+- [[raw/09-archive/Linux/zookeeper/1.简介]] — 原始素材
+- [[raw/09-archive/Linux/zookeeper/2.下载安装zk]] — 原始素材
+- [[raw/09-archive/Linux/zookeeper/3.zk命令]] — 原始素材
+- [[raw/09-archive/Linux/zookeeper/4.原生API]] — 原始素材
+- [[raw/09-archive/Linux/zookeeper/5.应用场景]] — 原始素材
+- [[raw/09-archive/Linux/zookeeper/6.Apache Curator客户端API]] — 原始素材

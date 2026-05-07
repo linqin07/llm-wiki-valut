@@ -3,7 +3,8 @@ title: "命令模式（Command Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 解耦, 撤销]
 sources:
-  - raw/01-articles/设计模式/14.命令模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/命令模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -113,6 +114,7 @@ public class Test {
 
 - [[Design_Patterns]] — 设计模式总览
 - [[摘要-design-patterns-java]] — 来源摘要
-- Chain_of_Responsibility_Pattern — 责任链模式
+- [[Chain_of_Responsibility_Pattern]] — 责任链模式
 - [[Memento_Pattern]] — 备忘录模式
 - [[Observer_Pattern]] — 观察者模式
+- [[raw/09-archive/设计模式/命令模式]] — 原始素材

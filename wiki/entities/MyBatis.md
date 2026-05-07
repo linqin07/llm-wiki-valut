@@ -2,7 +2,9 @@
 title: "MyBatis"
 type: entity
 tags: [MyBatis, ORM, 数据库, Java]
-sources: [raw/01-articles/Spring-boot/spring-boot-mybatis/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/Spring-boot/spring-boot-mybatis]]"
 last_updated: 2026-05-01
 ---
 
@@ -30,5 +32,7 @@ MyBatis 是一款优秀的持久层框架，支持定制化 SQL、存储过程�
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
 - [[Druid]] — 数据源整合
+- [[SPI机制]] — JDBC 驱动加载机制
 - [[MapStruct]] — 对象映射
 - [[MyBatis_Plus]] — 增强工具
+- [[raw/09-archive/Spring-boot/spring-boot-mybatis]] — 原始素材

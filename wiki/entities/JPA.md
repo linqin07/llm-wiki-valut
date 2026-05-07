@@ -2,7 +2,9 @@
 title: "JPA"
 type: entity
 tags: [JPA, ORM, 数据库, Java]
-sources: [raw/01-articles/Spring-boot/整合JPA/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/Spring-boot/整合JPA]]"
 last_updated: 2026-05-01
 ---
 
@@ -30,3 +32,4 @@ JPA（Java Persistence API）是 Java 持久化规范，定义了对象关系映
 - [[Spring_Boot]] — 框架整合
 - [[Druid]] — 数据源整合
 - [[MyBatis]] — 替代方案
+- [[raw/09-archive/Spring-boot/整合JPA]] — 原始素材

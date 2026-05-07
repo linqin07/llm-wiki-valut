@@ -2,7 +2,9 @@
 title: "摘要-spring-cloud-微服务"
 type: source
 tags: [Spring-Cloud, 微服务, Java, 来源]
-sources: [raw/01-articles/SpringCloud/]
+sources:
+  - "raw/09-archive/SpringCloud/"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/SpringCloud]]"
 last_updated: 2026-05-01
 ---
 
@@ -30,3 +32,4 @@ last_updated: 2026-05-01
 - [[服务注册中心]] — 核心概念
 - [[服务网关]] — 核心概念
 - [[CAP定理]] — 分布式系统理论基础
+- [[raw/09-archive/设计模式/raw/09-archive/SpringCloud]] — 原始素材

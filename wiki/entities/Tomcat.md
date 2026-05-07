@@ -2,7 +2,9 @@
 title: "Tomcat"
 type: entity
 tags: [Web服务器, Java, Apache, 开源]
-sources: [raw/01-articles/Java学习/IDEA学习/发布应用到 tomcat.md]
+sources:
+  - "[[摘要-idea-使用]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/IDEA学习/发布应用到 tomcat]]"
 last_updated: 2026-05-02
 ---
 
@@ -19,4 +21,5 @@ Apache Tomcat 是 Java Servlet 容器和 Web 服务器，用于部署 Java Web �
 ## 关联连接
 - [[IntelliJ_IDEA]] — IDE 集成部署
 - [[spring-boot-deployment]] — Spring Boot 内嵌 Tomcat
-- 摘要-tomcat-部署 — 来源
+- [[摘要-idea-使用]] — 来源摘要
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/IDEA学习/发布应用到 tomcat]] — 原始素材

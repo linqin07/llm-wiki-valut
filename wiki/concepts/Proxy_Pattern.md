@@ -3,7 +3,8 @@ title: "代理模式（Proxy Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java, AOP, 动态代理]
 sources:
-  - raw/01-articles/设计模式/9.代理模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/代理模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -173,3 +174,4 @@ public class UserCglibProxy implements MethodInterceptor {
 - [[Adapter_Pattern]] — 适配器模式
 - [[Decorator_Pattern]] — 装饰者模式
 - [[Facade_Pattern]] — 外观模式
+- [[raw/09-archive/设计模式/代理模式]] — 原始素材

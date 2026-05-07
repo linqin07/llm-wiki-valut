@@ -2,7 +2,9 @@
 title: "摘要-spring-boot-知识库"
 type: source
 tags: [Spring Boot, Java, 后端框架, 来源]
-sources: [raw/01-articles/Spring-boot/]
+sources:
+  - "raw/09-archive/Spring-boot/"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -27,3 +29,4 @@ last_updated: 2026-05-01
 - [[spring-boot-aop]] — 面向切面编程
 - [[spring-boot-scheduled-tasks]] — 定时任务实现
 - [[spring-boot-deployment]] — 部署与打包
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot]] — 原始素材

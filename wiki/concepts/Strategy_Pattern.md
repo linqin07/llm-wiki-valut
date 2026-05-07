@@ -3,7 +3,8 @@ title: "策略模式（Strategy Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 算法封装, if-else优化]
 sources:
-  - raw/01-articles/设计模式/21.策略模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/策略模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -161,3 +162,4 @@ public class TestController {
 - [[State_Pattern]] — 状态模式
 - [[Template_Method_Pattern]] — 模板模式
 - [[Factory_Pattern]] — 工厂模式
+- [[raw/09-archive/设计模式/策略模式]] — 原始素材

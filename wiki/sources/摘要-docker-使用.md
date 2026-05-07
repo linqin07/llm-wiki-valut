@@ -2,7 +2,9 @@
 title: "摘要-docker-使用"
 type: source
 tags: [来源, Docker, 容器]
-sources: [raw/01-articles/Linux/docker/1.简介安装.md, raw/01-articles/Linux/docker/2.Docker用法.md]
+sources:
+  - "raw/09-archive/Linux/docker/1.简介安装.md, raw/09-archive/Linux/docker/2.Docker用法.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Linux/docker/1.简介安装]]"
 last_updated: 2026-05-02
 ---
 
@@ -11,3 +13,5 @@ Docker 相关共 2 篇。介绍 CS 架构核心概念（daemon/client/image/cont
 
 ## 关联连接
 - [[Docker]] — 容器平台实体
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/docker/1.简介安装]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/docker/2.Docker用法]] — 原始素材

@@ -2,7 +2,9 @@
 title: "GitLab"
 type: entity
 tags: [Git, DevOps, 自托管, 开源]
-sources: [raw/01-articles/Java学习/git的使用/安装gitlab/CentOS7安装维护Gitlab.md]
+sources:
+  - "[[摘要-gitlab-安装维护]]"
+actionLink: "[[raw/09-archive/Java学习/git的使用/安装gitlab/CentOS7安装维护Gitlab]]"
 last_updated: 2026-05-02
 ---
 
@@ -29,3 +31,4 @@ GitLab 是基于 Git 的自托管 DevOps 平台，提供代码仓库管理、CI/
 - [[Docker]] — Docker 安装方式
 - [[Nginx]] — 反向代理配置
 - [[摘要-gitlab-安装维护]] — 来源
+- [[raw/09-archive/Java学习/git的使用/安装gitlab/CentOS7安装维护Gitlab]] — 原始素材

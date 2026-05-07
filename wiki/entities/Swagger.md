@@ -2,7 +2,9 @@
 title: "Swagger"
 type: entity
 tags: [Swagger, API, 文档, 测试]
-sources: [raw/01-articles/Spring-boot/spring-boot-swagger/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/Spring-boot/spring-boot-swapper]]"
 last_updated: 2026-05-01
 ---
 
@@ -28,3 +30,4 @@ Swagger 是一套 API 文档自动生成和测试工具，通过注解标记 Con
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
 - [[GraphQL]] — 替代方案
+- [[raw/09-archive/Spring-boot/spring-boot-swapper]] — 原始素材

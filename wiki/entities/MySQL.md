@@ -2,7 +2,12 @@
 title: "MySQL"
 type: entity
 tags: [数据库, RDBMS, 开源]
-sources: [raw/01-articles/mysql/]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+  - "[[摘要-mysql-基础知识]]"
+  - "[[摘要-mysql-安装]]"
+  # 另有 4 个来源（优化/分库分表/分布式事务/SQL面试题），详见关联连接
+actionLink: "[[raw/09-archive/mysql]]"
 last_updated: 2026-05-01
 ---
 
@@ -55,3 +60,4 @@ SELECT VERSION();
 - [[摘要-mysql-安装]] — 安装与配置
 - [[摘要-mysql-sql面试题]] — SQL 面试题
 - [[Oracle]] — 另一主流 RDBMS
+- [[raw/09-archive/mysql]] — 原始素材

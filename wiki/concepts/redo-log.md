@@ -2,7 +2,9 @@
 title: "redo-log"
 type: concept
 tags: [日志, 事务, 持久性, 崩溃恢复]
-sources: [raw/01-articles/mysql/]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql]]"
 last_updated: 2026-05-01
 ---
 

@@ -1,9 +1,14 @@
 ---
-title: "状态模式（State Pattern）"
+title: 状态模式（State Pattern）
 type: concept
-tags: [设计模式, 行为型模式, Java, 状态机]
+tags:
+  - 设计模式
+  - 行为型模式
+  - Java
+  - 状态机
 sources:
-  - raw/01-articles/设计模式/20.状态模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/Chain_of_Responsibility_Pattern]]"
 last_updated: 2026-05-01
 ---
 
@@ -122,3 +127,4 @@ public class Test {
 - [[Strategy_Pattern]] — 策略模式
 - [[Observer_Pattern]] — 观察者模式
 - [[Memento_Pattern]] — 备忘录模式
+- [[raw/09-archive/设计模式/状态模式]] — 原始素材

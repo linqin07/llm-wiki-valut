@@ -2,7 +2,9 @@
 title: "Lombok"
 type: entity
 tags: [Java, 代码生成, 开源]
-sources: [raw/01-articles/Java学习/IDEA学习/Lombok 的使用.md]
+sources:
+  - "[[摘要-idea-使用]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/IDEA学习/Lombok 的使用]]"
 last_updated: 2026-05-02
 ---
 
@@ -25,4 +27,5 @@ Lombok 是一个 Java 库，通过注解自动生成 getter/setter/构造方法�
 ## 关联连接
 - [[IntelliJ_IDEA]] — IDE 集成
 - [[MapStruct]] — 编译冲突需注意
-- 摘要-lombok-使用 — 来源
+- [[摘要-idea-使用]] — 来源摘要
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/IDEA学习/Lombok 的使用]] — 原始素材

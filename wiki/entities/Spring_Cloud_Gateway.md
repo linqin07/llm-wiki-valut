@@ -2,7 +2,9 @@
 title: "Spring_Cloud_Gateway"
 type: entity
 tags: [Spring-Cloud, 网关, 路由, 过滤器]
-sources: [raw/01-articles/SpringCloud/3.服务网关SpringCloudGateWay.md]
+sources:
+  - "[[摘要-spring-cloud-微服务]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/SpringCloud/3.服务网关SpringCloudGateWay]]"
 last_updated: 2026-05-01
 ---
 
@@ -71,4 +73,6 @@ spring:
 - [[服务网关]] — 核心概念
 - [[Zuul]] — 前任网关方案
 - [[Eureka]] — 服务发现集成
+- [[SkyWalking]] — 分布式追踪 APM
 - [[Spring_Boot]] — 基础框架
+- [[raw/09-archive/设计模式/raw/09-archive/SpringCloud/3.服务网关SpringCloudGateWay]] — 原始素材

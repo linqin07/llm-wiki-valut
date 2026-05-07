@@ -45,3 +45,29 @@
   - 为 18 个弱关联页面补充交叉引用（从相关实体页面添加反向链接）
 - **结果**: 死链归零，孤儿页面从 19 降至 1（[[摘要-python-环境配置]] 无 Python 实体页可引用）
 - **冲突**: 无
+
+## [2026-05-07] sync | 全局知识图谱关联修复
+
+- **变更**:
+  - **Phase 1+2**: 修复 134 个页面的 sources 路径（`raw/01-articles/` → `raw/09-archive/`），为每个页面添加原始素材双链到 `## 关联连接` 部分
+  - **Phase 3**: 新建 [[Chain_of_Responsibility_Pattern]] 页面并注册到 index.md; 删除 [[Druid]] 的无效 actionLink; 修复 5 个幽灵来源引用（Akka/SPI机制/Guava/JVM调优）
+  - **Phase 4**: 为 19 个弱关联页面补充反向链接，主要增强 Spring_Boot/Eureka/Nacos/Spring_Cloud_Gateway 等枢纽页面的出链
+  - **Phase 5**: 修复 [[摘要-python-环境配置]] 孤儿页面（添加到 Prompt_Engineering）; 修复剩余幽灵引用（JVM/Nexus/OkHttp3/Tomcat/Thymeleaf/ZooKeeper 等）
+- **结果**: 死链归零，sources 路径全部有效，所有页面均与原始素材建立双链关联
+- **已知问题**: Prompt_Engineering.md 的 2 个 sources 路径（Gemini API/Anthropic）对应文件未归档到 raw/09-archive/
+
+## [2026-05-07] sync | 全局关联修复与 frontmatter 规范化
+
+- **变更**:
+  - 为全部 135 个 wiki 页面添加 `actionLink` 属性（双链回 raw/ 原始素材）
+  - 将所有 `sources` 字段从 raw 路径格式转换为 `[[wikilink]]` 格式
+  - 截断超过 3 个 sources 的文件，末尾加注释说明
+  - 为 22 个设计模式文件填充 `sources: [[摘要-design-patterns-java]]`
+  - 增强 Oracle、泛型、正则表达式、SPI机制、synchronized锁、MongoDB 等文件的关联连接
+- **覆盖**: 135/135 文件完成 actionLink，0 文件使用旧格式 sources
+- **冲突**: 无
+
+## [2026-05-07] sync | 设计模式文件夹重命名与引用更新
+
+- **变更**: 移除 `raw/09-archive/设计模式/` 下 23 个子文件夹的数字前缀（如 `1.单例模式` → `单例模式`），同步更新 wiki 中 401 处双链引用
+- **冲突**: 无

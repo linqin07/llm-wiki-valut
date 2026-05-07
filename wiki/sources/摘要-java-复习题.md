@@ -2,7 +2,12 @@
 title: "摘要-java-复习题"
 type: source
 tags: [来源, Java, 面试, 复习]
-sources: [raw/01-articles/复习题/基础/反射.md, raw/01-articles/复习题/基础/基础.md, raw/01-articles/复习题/计算机网络/IP.md, raw/01-articles/复习题/计算机网络/tcp通讯.md, raw/01-articles/复习题/计算机网络/滑动窗口机制.md, raw/01-articles/复习题/进程多线程/JMM.md, raw/01-articles/复习题/进程多线程/JUC锁.md, raw/01-articles/复习题/进程多线程/多线程.md, raw/01-articles/复习题/进程多线程/线程优雅关闭.md, raw/01-articles/复习题/进程多线程/原子类.md, raw/01-articles/复习题/面试题/常见坑点问题.md, raw/01-articles/复习题/面试题/卷常见知识点.md, raw/01-articles/复习题/面试题/面试题目.md, raw/01-articles/复习题/面试题/为什么接口要实现Impl.md]
+sources:
+  - "raw/09-archive/复习题/基础/反射.md"
+  - "raw/09-archive/复习题/基础/基础.md"
+  - "raw/09-archive/复习题/计算机网络/IP.md"
+  # 另有 11 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/复习题/面试题/面试题目]]"
 last_updated: 2026-05-02
 ---
 
@@ -13,3 +18,17 @@ Java 复习题共 14 篇，涵盖基础（反射/面向对象/异常/序列化�
 - [[synchronized锁]] — 线程同步
 - [[JVM]] — JVM 内存模型
 - [[MySQL]] — 数据库索引
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/基础/反射]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/基础/基础]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/计算机网络/IP]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/计算机网络/tcp通讯]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/计算机网络/滑动窗口机制]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/进程多线程/JMM]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/进程多线程/JUC锁]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/进程多线程/多线程]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/进程多线程/线程优雅关闭]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/进程多线程/原子类]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/面试题/常见坑点问题]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/面试题/卷常见知识点]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/面试题/面试题目]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/复习题/面试题/为什么接口要实现Impl]] — 原始素材

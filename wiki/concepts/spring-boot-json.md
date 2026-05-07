@@ -2,7 +2,9 @@
 title: "spring-boot-json"
 type: concept
 tags: [Spring Boot, JSON, 序列化, Jackson]
-sources: [raw/01-articles/Spring-boot/spring-boot-json/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -29,3 +31,4 @@ JSON 处理是 Spring Boot 中数据序列化和反序列化的核心机制，�
 
 - [[Spring_Boot]] — 框架实体
 - [[摘要-spring-boot-知识库]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/spring-boot-json]] — 原始素材

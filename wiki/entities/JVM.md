@@ -2,7 +2,10 @@
 title: "JVM"
 type: entity
 tags: [Java, 虚拟机, 性能调优]
-sources: [raw/01-articles/Java学习/JVM/Java虚拟机.md, raw/01-articles/Java学习/JVM/JVM 参数.md, raw/01-articles/Java学习/JVM/系统缓慢JVM排查.md]
+sources:
+  - "[[摘要-jvm-体系结构]]"
+  # 另有 2 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/Java学习/JVM/Java虚拟机]]"
 last_updated: 2026-05-02
 ---
 
@@ -46,5 +49,7 @@ Bootstrap → Extension → Application 三级，双亲委派模型保证父加�
 - [[摘要-jvm-体系结构]] — 来源
 - [[摘要-java-复习题]] — Java 面试复习
 - [[摘要-java-基础知识]] — Java 基础
-- 摘要-jvm-参数调优 — 来源
-- 摘要-jvm-排查 — 来源
+- [[摘要-jvm-体系结构]] — 来源摘要
+- [[raw/09-archive/Java学习/JVM/Java虚拟机]] — 原始素材
+- [[raw/09-archive/Java学习/JVM/JVM 参数]] — 原始素材
+- [[raw/09-archive/Java学习/JVM/系统缓慢JVM排查]] — 原始素材

@@ -3,7 +3,8 @@ title: "观察者模式（Observer Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 事件驱动, 发布订阅]
 sources:
-  - raw/01-articles/设计模式/19.观察者模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/观察者模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -145,3 +146,4 @@ wangwu 接收到消息：收到转账100w元
 - [[Mediator_Pattern]] — 中介者模式
 - [[State_Pattern]] — 状态模式
 - [[Strategy_Pattern]] — 策略模式
+- [[raw/09-archive/设计模式/观察者模式]] — 原始素材

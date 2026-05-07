@@ -2,7 +2,9 @@
 title: "Nexus"
 type: entity
 tags: [私服, Maven, 制品仓库, Sonatype]
-sources: [raw/01-articles/Java学习/构建工具/Maven.md]
+sources:
+  - "[[摘要-构建工具]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/构建工具/Maven]]"
 last_updated: 2026-05-02
 ---
 
@@ -15,4 +17,5 @@ Nexus 是 Sonatype 开发的制品仓库管理器，用于托管 Maven 私服和
 
 ## 关联连接
 - [[Maven]] — 构建工具集成
-- 摘要-maven-使用 — 来源
+- [[摘要-构建工具]] — 来源摘要
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/构建工具/Maven]] — 原始素材

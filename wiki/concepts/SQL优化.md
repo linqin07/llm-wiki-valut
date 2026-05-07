@@ -2,7 +2,9 @@
 title: "SQL优化"
 type: concept
 tags: [性能, 索引, 查询优化]
-sources: [raw/01-articles/mysql/优化/]
+sources:
+  - "[[摘要-mysql-优化]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/优化]]"
 last_updated: 2026-05-01
 ---
 
@@ -86,3 +88,4 @@ SHOW VARIABLES LIKE '%slow%';
 - [[InnoDB]] — 存储引擎
 - [[B+树索引]] — 索引数据结构
 - [[摘要-mysql-优化]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/优化]] — 原始素材

@@ -2,7 +2,9 @@
 title: "Guava"
 type: entity
 tags: [Java, Google, 工具库, 开源]
-sources: [raw/01-articles/Java学习/常用工具类/Guava常用.md]
+sources:
+  - "[[摘要-java-工具类]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/Guava常用]]"
 last_updated: 2026-05-02
 ---
 
@@ -18,5 +20,6 @@ Guava 是 Google 开发的核心 Java 库，提供集合、缓存、并发、字
 - **集合运算**：Sets.difference/intersection/union
 
 ## 关联连接
-- 摘要-guava-常用 — 来源
+- [[摘要-java-工具类]] — 来源摘要
 - [[摘要-java-工具类]] — Java 工具类汇总
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/Guava常用]] — 原始素材

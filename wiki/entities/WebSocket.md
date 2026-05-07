@@ -2,7 +2,9 @@
 title: "WebSocket"
 type: entity
 tags: [WebSocket, 实时通信, 全双工]
-sources: [raw/01-articles/Spring-boot/spring-boot-websocket/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -28,3 +30,4 @@ WebSocket 是一种在单个 TCP 连接上进行全双工通信的协议，允�
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
 - [[摘要-java-解决方案]] — SSE/连接池方案
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/spring-boot-websocket]] — 原始素材

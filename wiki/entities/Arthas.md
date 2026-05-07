@@ -2,7 +2,11 @@
 title: "Arthas"
 type: entity
 tags: [Java, 诊断工具, 阿里巴巴, 开源]
-sources: [raw/01-articles/Java学习/Arthas 基础教程/Arthas 基础教程.md, raw/01-articles/Java学习/Arthas 基础教程/Thread.md, raw/01-articles/Java学习/Arthas 基础教程/热部署.md, raw/01-articles/Java学习/Arthas 基础教程/编译和反编译.md]
+sources:
+  - "[[摘要-arthas-基础教程]]"
+  - "raw/09-archive/Java学习/Arthas 基础教程/"
+  # 另有 2 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/Java学习/Arthas 基础教程/Arthas 基础教程]]"
 last_updated: 2026-05-02
 ---
 
@@ -35,3 +39,7 @@ Arthas 是阿里巴巴开源的 Java 诊断工具，可在不修改代码、不�
 ## 关联连接
 - [[JVM]] — Arthas 运行在 JVM 之上
 - [[摘要-arthas-基础教程]] — 来源
+- [[raw/09-archive/Java学习/Arthas 基础教程/Arthas 基础教程]] — 原始素材
+- [[raw/09-archive/Java学习/Arthas 基础教程/Thread]] — 原始素材
+- [[raw/09-archive/Java学习/Arthas 基础教程/热部署]] — 原始素材
+- [[raw/09-archive/Java学习/Arthas 基础教程/编译和反编译]] — 原始素材

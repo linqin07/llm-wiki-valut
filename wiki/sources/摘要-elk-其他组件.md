@@ -2,7 +2,9 @@
 title: "摘要-elk-其他组件"
 type: source
 tags: [来源, ELK, Logstash, Metricbeat]
-sources: [raw/01-articles/Linux/ELK/logstash/README.md, raw/01-articles/Linux/ELK/metricbeat/metricbeat.md]
+sources:
+  - "raw/09-archive/Linux/ELK/logstash/README.md, raw/09-archive/Linux/ELK/metricbeat/metricbeat.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Linux/ELK/logstash/README]]"
 last_updated: 2026-05-02
 ---
 
@@ -12,3 +14,5 @@ ELK 其他组件共 2 篇。Logstash 基础入门（input-filter-output 三段�
 ## 关联连接
 - [[Elasticsearch]] — 搜索引擎
 - [[Kafka]] — 数据管道
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/ELK/logstash/README]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/ELK/metricbeat/metricbeat]] — 原始素材

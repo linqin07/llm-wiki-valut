@@ -2,7 +2,9 @@
 title: "Nacos"
 type: entity
 tags: [Spring-Cloud, Alibaba, 配置中心, 服务发现]
-sources: [raw/01-articles/SpringCloud/4.接入nacos.md]
+sources:
+  - "[[摘要-spring-cloud-微服务]]"
+actionLink: "[[raw/09-archive/SpringCloud/4.接入nacos]]"
 last_updated: 2026-05-01
 ---
 
@@ -55,4 +57,6 @@ spring:
 - [[摘要-spring-cloud-微服务]] — 来源
 - [[服务注册中心]] — 核心概念
 - [[Eureka]] — 同类组件
+- [[Feign]] — 声明式 HTTP 客户端
 - [[Spring_Boot]] — 基础框架
+- [[raw/09-archive/SpringCloud/4.接入nacos]] — 原始素材

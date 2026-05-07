@@ -2,7 +2,9 @@
 title: "摘要-mysql-分布式事务"
 type: source
 tags: [MySQL, 事务, 分布式事务, XA]
-sources: [raw/01-articles/mysql/深入了解分布式事物.md]
+sources:
+  - "raw/09-archive/mysql/深入了解分布式事物.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/深入了解分布式事物]]"
 last_updated: 2026-05-01
 ---
 
@@ -19,3 +21,4 @@ last_updated: 2026-05-01
 - [[binlog]] — 归档日志
 - [[ACID事务]] — 事务四大特性
 - [[MVCC]] — 多版本并发控制
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/深入了解分布式事物]] — 原始素材

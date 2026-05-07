@@ -2,7 +2,9 @@
 title: "InnoDB"
 type: entity
 tags: [存储引擎, MySQL, 事务, 行锁]
-sources: [raw/01-articles/mysql/Mysql技术内幕.md]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+actionLink: "[[raw/09-archive/mysql/Mysql技术内幕]]"
 last_updated: 2026-05-01
 ---
 
@@ -68,3 +70,4 @@ InnoDB 是 MySQL 的默认存储引擎，支持事务、行级锁和外键。它
 - [[redo-log]] — 重做日志
 - [[undo-log]] — 回滚日志
 - [[摘要-mysql-技术内幕]] — 来源
+- [[raw/09-archive/mysql/Mysql技术内幕]] — 原始素材

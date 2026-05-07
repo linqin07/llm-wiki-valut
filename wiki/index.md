@@ -32,6 +32,7 @@
 - [[State_Pattern]] — 状态模式：对象行为随状态改变
 - [[Strategy_Pattern]] — 策略模式：算法族封装
 - [[Template_Method_Pattern]] — 模板方法模式：算法骨架定义
+- [[Chain_of_Responsibility_Pattern]] — 责任链模式：请求沿链传递直到被处理
 - [[Visitor_Pattern]] — 访问者模式：作用于对象结构的操作
 
 ---

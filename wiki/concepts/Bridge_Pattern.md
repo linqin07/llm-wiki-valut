@@ -3,7 +3,8 @@ title: "桥接模式（Bridge Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java, 分离抽象]
 sources:
-  - raw/01-articles/设计模式/10.桥接模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/桥接模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -147,3 +148,4 @@ public class Test {
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Adapter_Pattern]] — 适配器模式
 - [[Abstract_Factory_Pattern]] — 抽象工厂模式
+- [[raw/09-archive/设计模式/桥接模式]] — 原始素材

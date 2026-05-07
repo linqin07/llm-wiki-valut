@@ -3,7 +3,8 @@ title: "备忘录模式（Memento Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 状态保存, 撤销]
 sources:
-  - raw/01-articles/设计模式/18.备忘录模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/备忘录模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -127,3 +128,4 @@ public class Test {
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Command_Pattern]] — 命令模式
 - [[State_Pattern]] — 状态模式
+- [[raw/09-archive/设计模式/备忘录模式]] — 原始素材

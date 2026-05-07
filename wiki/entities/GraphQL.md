@@ -2,7 +2,9 @@
 title: "GraphQL"
 type: entity
 tags: [GraphQL, API, 查询语言]
-sources: [raw/01-articles/Spring-boot/Graphql.md]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -30,3 +32,4 @@ GraphQL 是一种用于 API 的查询语言，是由 Facebook 开发的数据查
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
 - [[Swagger]] — API 文档对比
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/Graphql]] — 原始素材

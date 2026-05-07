@@ -2,7 +2,9 @@
 title: "Git"
 type: entity
 tags: [版本控制, 开源工具]
-sources: [raw/01-articles/Java学习/git的使用/git命令.md, raw/01-articles/Java学习/git的使用/git标签操作.md, raw/01-articles/Java学习/git的使用/idea操作git.md]
+sources:
+  - "[[摘要-git-使用]]"
+actionLink: "[[raw/09-archive/Java学习/git的使用/git命令]]"
 last_updated: 2026-05-02
 ---
 
@@ -27,3 +29,6 @@ Git 是分布式版本控制系统，是目前最流行的源代码管理工具�
 - [[GitLab]] — 自托管 Git 服务
 - [[IntelliJ_IDEA]] — IDE 集成
 - [[摘要-git-使用]] — 来源
+- [[raw/09-archive/Java学习/git的使用/git命令]] — 原始素材
+- [[raw/09-archive/Java学习/git的使用/git标签操作]] — 原始素材
+- [[raw/09-archive/Java学习/git的使用/idea操作git]] — 原始素材

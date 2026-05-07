@@ -2,7 +2,9 @@
 title: "Akka"
 type: entity
 tags: [事件驱动, Actor模型, 异步编程, Scala]
-sources: [raw/01-articles/Java学习/Netty/事件驱动框架.md]
+sources:
+  - "[[摘要-netty-实战]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/Netty/事件驱动框架]]"
 last_updated: 2026-05-02
 ---
 
@@ -22,6 +24,7 @@ Akka 是轻量级的异步、非阻塞、高性能事件驱动编程模型，通
 复杂消息处理：多种消息类型、顺序依赖、循环处理
 
 ## 关联连接
-- 事件驱动 — 设计模式
+- [[Observer_Pattern]] — 观察者模式（事件驱动相关）
 - [[Netty]] — 同类网络框架
-- 摘要-事件驱动框架 — 来源
+- [[摘要-netty-实战]] — 来源摘要
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/Netty/事件驱动框架]] — 原始素材

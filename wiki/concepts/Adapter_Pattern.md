@@ -3,7 +3,8 @@ title: "适配器模式（Adapter Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java]
 sources:
-  - raw/01-articles/设计模式/6.适配器模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/适配器模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -83,3 +84,4 @@ public class Client {
 - [[Decorator_Pattern]] — 装饰者模式
 - [[Facade_Pattern]] — 外观模式
 - [[Proxy_Pattern]] — 代理模式
+- [[raw/09-archive/设计模式/适配器模式]] — 原始素材

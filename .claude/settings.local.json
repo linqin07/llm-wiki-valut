@@ -7,7 +7,14 @@
       "Bash(cmd.exe *)",
       "Bash(obsidian *)",
       "Bash(grep -v \"^raw$\\\\|^wiki$\\\\|^assets$\\\\|\\\\.obsidian$\\\\|\\\\.claude$\\\\|^CLAUDE\\\\.md$\\\\|^README\\\\.md$\\\\|^bash\\\\.exe\\\\.stackdump$\")",
-      "WebSearch"
+      "WebSearch",
+      "Bash(dir \"E:\\\\llm-wiki-vault\\\\wiki\")",
+      "Bash(python -c ' *)",
+      "Bash(find raw/09-archive -name \"*Gemini*\" -o -name \"*Anthropic*\" -o -name \"*prompt*\" -o -name \"*Prompt*\")",
+      "Bash(find raw/02-papers -type f)",
+      "Bash(find raw/09-archive/Java学习 -name \"*char*\")",
+      "Bash(grep -v \"^\\\\- \\\\`\")",
+      "Bash(grep -v '^\\\\- `')"
     ]
   }
 }

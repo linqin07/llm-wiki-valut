@@ -3,7 +3,8 @@ title: "中介者模式（Mediator Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 解耦, 中介]
 sources:
-  - raw/01-articles/设计模式/17.中介者模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/中介者模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -118,3 +119,4 @@ B 努力工作
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Facade_Pattern]] — 外观模式
 - [[Observer_Pattern]] — 观察者模式
+- [[raw/09-archive/设计模式/中介者模式]] — 原始素材

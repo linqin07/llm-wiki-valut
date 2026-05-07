@@ -3,7 +3,8 @@ title: "迭代器模式（Iterator Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 遍历, 集合]
 sources:
-  - raw/01-articles/设计模式/16.迭代器模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/迭代器模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -161,3 +162,4 @@ public class Test {
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Composite_Pattern]] — 组合模式
 - [[Visitor_Pattern]] — 访问者模式
+- [[raw/09-archive/设计模式/迭代器模式]] — 原始素材

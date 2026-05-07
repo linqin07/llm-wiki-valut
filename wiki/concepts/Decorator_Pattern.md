@@ -3,7 +3,8 @@ title: "装饰者模式（Decorator Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java, 动态扩展]
 sources:
-  - raw/01-articles/设计模式/7.装饰者模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/装饰者模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -129,3 +130,4 @@ ManDecoratorB
 - [[Adapter_Pattern]] — 适配器模式
 - [[Facade_Pattern]] — 外观模式
 - [[Proxy_Pattern]] — 代理模式
+- [[raw/09-archive/设计模式/装饰者模式]] — 原始素材

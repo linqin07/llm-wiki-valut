@@ -2,7 +2,9 @@
 title: "Maven"
 type: entity
 tags: [构建工具, Java, 依赖管理, Apache]
-sources: [raw/01-articles/Java学习/构建工具/Maven.md]
+sources:
+  - "[[摘要-构建工具]]"
+actionLink: "[[raw/09-archive/Java学习/构建工具/Maven]]"
 last_updated: 2026-05-02
 ---
 
@@ -28,5 +30,6 @@ Apache Maven 是 Java 项目的构建和依赖管理工具，通过 POM 文件�
 ## 关联连接
 - [[Nexus]] — Maven 私服
 - [[Jenkins]] — CI/CD 集成
-- 摘要-maven-使用 — 来源
+- [[摘要-构建工具]] — 来源摘要
 - [[摘要-构建工具]] — 构建工具汇总
+- [[raw/09-archive/Java学习/构建工具/Maven]] — 原始素材

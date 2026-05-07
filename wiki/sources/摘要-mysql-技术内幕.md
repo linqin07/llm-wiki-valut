@@ -2,7 +2,9 @@
 title: "摘要-mysql-技术内幕"
 type: source
 tags: [MySQL, InnoDB, 数据库, 索引, 事务]
-sources: [raw/01-articles/mysql/Mysql技术内幕.md]
+sources:
+  - "raw/09-archive/mysql/Mysql技术内幕.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/Mysql技术内幕]]"
 last_updated: 2026-05-01
 ---
 
@@ -20,3 +22,4 @@ last_updated: 2026-05-01
 - [[undo-log]] — 回滚日志
 - [[binlog]] — 归档日志
 - [[MVCC]] — 多版本并发控制
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/Mysql技术内幕]] — 原始素材

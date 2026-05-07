@@ -2,7 +2,9 @@
 title: "JVM 调优"
 type: concept
 tags: [Java, 性能优化, JVM]
-sources: [raw/01-articles/Java学习/JVM/JVM 参数.md, raw/01-articles/Java学习/JVM/系统缓慢JVM排查.md]
+sources:
+  - "[[摘要-jvm-体系结构]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/JVM 参数]]"
 last_updated: 2026-05-02
 ---
 
@@ -29,5 +31,6 @@ JVM 调优是通过调整 JVM 参数和选择合适的垃圾收集器来优化 J
 ## 关联连接
 - [[JVM]] — 虚拟机
 - [[Arthas]] — 诊断工具
-- 摘要-jvm-参数调优 — 来源
-- 摘要-jvm-排查 — 来源
+- [[摘要-jvm-体系结构]] — 来源摘要
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/JVM 参数]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/系统缓慢JVM排查]] — 原始素材

@@ -2,7 +2,9 @@
 title: "Stream API"
 type: concept
 tags: [Java8, 函数式编程, 数据流]
-sources: [raw/01-articles/Java学习/JDK8/Stream流.md, raw/01-articles/Java学习/JDK8/collect.md]
+sources:
+  - "[[摘要-jdk8-新特性]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/JDK8/Stream流]]"
 last_updated: 2026-05-02
 ---
 
@@ -25,6 +27,9 @@ Stream API 是 Java 8 引入的数据流处理接口，支持声明式、函数�
 
 ## 关联连接
 - [[函数式编程]] — 编程范式
+- [[泛型]] — 类型参数化
 - JDK8 — 版本特性
-- 摘要-jdk8-stream — 来源
+- [[摘要-jdk8-新特性]] — 来源摘要
 - [[摘要-jdk8-新特性]] — JDK8 新特性汇总
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JDK8/Stream流]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JDK8/collect]] — 原始素材

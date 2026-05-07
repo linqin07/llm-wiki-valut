@@ -1,8 +1,14 @@
 ---
-title: "Druid"
+title: Druid
 type: entity
-tags: [Druid, 数据库, 连接池, 监控]
-sources: [raw/01-articles/Spring-boot/spring-boot-druid/]
+tags:
+  - Druid
+  - 数据库
+  - 连接池
+  - 监控
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/Spring-boot/spring-boot-druid]]"
 last_updated: 2026-05-01
 ---
 
@@ -31,3 +37,5 @@ Druid 是阿里巴巴开源的数据库连接池实现，提供了强大的监�
 - [[Spring_Boot]] — 框架整合
 - [[MyBatis]] — ORM 整合
 - [[JPA]] — 持久化整合
+- [[MyBatis_Plus]] — MyBatis 增强工具
+- [[raw/09-archive/Spring-boot/spring-boot-druid]] — 原始素材

@@ -2,7 +2,10 @@
 title: "Redis"
 type: entity
 tags: [Redis, 缓存, 数据库, NoSQL]
-sources: [raw/01-articles/Spring-boot/spring-boot-redis/, raw/01-articles/Linux/Redis/Redis 知识汇总.md]
+sources:
+  - "[[摘要-redis-知识汇总]]"
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/Linux/Redis/Redis 知识汇总]]"
 last_updated: 2026-05-02
 ---
 
@@ -44,3 +47,5 @@ Redis 是开源的内存数据结构存储系统，可用作数据库、缓存�
 - [[摘要-spring-boot-知识库]] — Spring Boot 来源
 - [[摘要-redis-知识汇总]] — Linux 运维来源
 - [[Spring_Boot]] — 框架整合
+- [[raw/09-archive/Spring-boot/spring-boot-redis]] — 原始素材
+- [[raw/09-archive/Linux/Redis/Redis 知识汇总]] — 原始素材

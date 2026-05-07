@@ -2,7 +2,9 @@
 title: "JHipster"
 type: entity
 tags: [代码生成器, 全栈框架, Java, 开源]
-sources: [raw/01-articles/Java学习/构建工具/Jhipster.md]
+sources:
+  - "[[摘要-构建工具]]"
+actionLink: "[[raw/09-archive/Java学习/构建工具/Jhipster]]"
 last_updated: 2026-05-02
 ---
 
@@ -19,5 +21,6 @@ JHipster 是快速开发 Web 应用的脚手架工具，支持 Java 和多种前
 
 ## 关联连接
 - [[Maven]] — 构建工具
-- 摘要-jhipster-安装 — 来源
+- [[摘要-构建工具]] — 来源摘要
 - [[摘要-构建工具]] — 构建工具汇总
+- [[raw/09-archive/Java学习/构建工具/Jhipster]] — 原始素材

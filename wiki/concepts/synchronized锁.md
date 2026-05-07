@@ -2,7 +2,9 @@
 title: "synchronized 锁"
 type: concept
 tags: [Java, 并发, 线程同步]
-sources: [raw/01-articles/Java学习/基础知识/4.synchronized.md]
+sources:
+  - "[[摘要-java-基础知识]]"
+actionLink: "[[raw/09-archive/Java学习/基础知识/4.synchronized]]"
 last_updated: 2026-05-02
 ---
 
@@ -17,5 +19,7 @@ synchronized 是 Java 内置的关键字，用于实现线程同步和互斥访�
 锁对象必须是多线程共享的唯一对象。
 
 ## 关联连接
-- [[JVM]] — 锁实现原理
-- 摘要-synchronized-验证 — 来源
+- [[JVM]] — 锁实现原理（对象头 Mark Word）
+- [[JVM调优]] — 线程与锁性能分析
+- [[摘要-java-基础知识]] — 来源摘要
+- [[raw/09-archive/Java学习/基础知识/4.synchronized]] — 原始素材

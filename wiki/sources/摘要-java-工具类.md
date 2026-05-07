@@ -2,7 +2,9 @@
 title: "摘要-java-工具类"
 type: source
 tags: [来源, Java, 工具库]
-sources: [raw/01-articles/Java学习/常用工具类/Guava常用.md, raw/01-articles/Java学习/常用工具类/MapStruct.md, raw/01-articles/Java学习/常用工具类/OkHttpUtil.md]
+sources:
+  - "raw/09-archive/Java学习/常用工具类/Guava常用.md, raw/09-archive/Java学习/常用工具类/MapStruct.md, raw/09-archive/Java学习/常用工具类/OkHttpUtil.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/Guava常用]]"
 last_updated: 2026-05-02
 ---
 
@@ -13,3 +15,6 @@ Java 常用工具类共 3 篇。Guava 提供 Optional 空值处理、不可变�
 - [[Guava]] — Google 核心库
 - [[MapStruct]] — Bean 映射（已有页面）
 - [[OkHttp3]] — HTTP 客户端
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/Guava常用]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/MapStruct]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/OkHttpUtil]] — 原始素材

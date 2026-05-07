@@ -3,7 +3,8 @@ title: "原型模式（Prototype Pattern）"
 type: concept
 tags: [设计模式, 创建型模式, Java, 克隆]
 sources:
-  - raw/01-articles/设计模式/5.原型模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/原型模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -89,3 +90,4 @@ Prototype@74a14482 sb
 - [[Factory_Pattern]] — 工厂模式
 - [[Abstract_Factory_Pattern]] — 抽象工厂模式
 - [[Builder_Pattern]] — 建造者模式
+- [[raw/09-archive/设计模式/原型模式]] — 原始素材

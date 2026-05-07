@@ -2,7 +2,9 @@
 title: "Spring Security"
 type: entity
 tags: [Spring Security, 安全, 认证, 授权]
-sources: [raw/01-articles/Spring-boot/spring-boot-security/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -28,3 +30,4 @@ Spring Security 是 Spring 生态中的安全框架，提供认证（Authenticat
 
 - [[摘要-spring-boot-知识库]] — 来源
 - [[Spring_Boot]] — 框架整合
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/spring-boot-security]] — 原始素材

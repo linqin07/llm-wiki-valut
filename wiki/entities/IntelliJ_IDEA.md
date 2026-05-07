@@ -2,7 +2,11 @@
 title: "IntelliJ IDEA"
 type: entity
 tags: [IDE, Java, JetBrains, 开发工具]
-sources: [raw/01-articles/Java学习/IDEA学习/IDEA好用插件.md, raw/01-articles/Java学习/IDEA学习/IDEA远程debug-jar.md, raw/01-articles/Java学习/IDEA学习/IDEA中使用 Debug .md, raw/01-articles/Java学习/IDEA学习/Lombok 的使用.md, raw/01-articles/Java学习/IDEA学习/发布应用到 tomcat.md]
+sources:
+  - "[[摘要-idea-使用]]"
+  - "raw/09-archive/Java学习/IDEA学习/"
+  # 另有 3 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/Java学习/IDEA学习/IDEA好用插件]]"
 last_updated: 2026-05-02
 ---
 
@@ -28,3 +32,8 @@ IntelliJ IDEA 是 JetBrains 开发的 Java 集成开发环境，被广泛认为�
 - [[Tomcat]] — 应用服务器
 - [[Git]] — 版本控制集成
 - [[摘要-idea-使用]] — 来源
+- [[raw/09-archive/Java学习/IDEA学习/IDEA好用插件]] — 原始素材
+- [[raw/09-archive/Java学习/IDEA学习/IDEA远程debug-jar]] — 原始素材
+- [[raw/09-archive/Java学习/IDEA学习/IDEA中使用 Debug ]] — 原始素材
+- [[raw/09-archive/Java学习/IDEA学习/Lombok 的使用]] — 原始素材
+- [[raw/09-archive/Java学习/IDEA学习/发布应用到 tomcat]] — 原始素材

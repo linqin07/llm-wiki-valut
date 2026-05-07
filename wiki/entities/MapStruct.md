@@ -2,7 +2,9 @@
 title: "MapStruct"
 type: entity
 tags: [MapStruct, 对象映射, 代码生成]
-sources: [raw/01-articles/Spring-boot/spring-boot-mybatis/7.MapStruct映射框架.md]
+sources:
+  - "[[摘要-java-工具类]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/常用工具类/MapStruct]]"
 last_updated: 2026-05-01
 ---
 
@@ -35,3 +37,4 @@ MapStruct 是一个 Java 注解处理器，用于生成类型安全的 Bean 映�
 - [[MyBatis]] — ORM 整合
 - [[Spring_Boot]] — 框架整合
 - [[摘要-java-工具类]] — Java 工具类汇总
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/spring-boot-mybatis/7.MapStruct映射框架]] — 原始素材

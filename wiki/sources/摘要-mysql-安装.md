@@ -2,7 +2,9 @@
 title: "摘要-mysql-安装"
 type: source
 tags: [MySQL, 安装, 配置, 运维]
-sources: [raw/01-articles/mysql/MYSQL安装.md]
+sources:
+  - "raw/09-archive/mysql/MYSQL安装.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/MYSQL安装]]"
 last_updated: 2026-05-01
 ---
 
@@ -14,3 +16,4 @@ last_updated: 2026-05-01
 
 - [[MySQL]] — 数据库系统
 - [[InnoDB]] — 存储引擎
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/MYSQL安装]] — 原始素材

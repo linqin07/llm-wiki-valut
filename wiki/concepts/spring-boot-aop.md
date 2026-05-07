@@ -2,7 +2,9 @@
 title: "spring-boot-aop"
 type: concept
 tags: [Spring Boot, AOP, 日志, 切面]
-sources: [raw/01-articles/Spring-boot/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -27,3 +29,4 @@ AOP（面向切面编程）是 Spring 框架的核心特性之一，用于将横
 
 - [[Spring_Boot]] — 框架实体
 - [[摘要-spring-boot-知识库]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot]] — 原始素材

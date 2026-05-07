@@ -2,7 +2,9 @@
 title: "SkyWalking"
 type: entity
 tags: [APM, 分布式追踪, Apache, 开源]
-sources: [raw/01-articles/Java学习/SkyWalking/源码调试.md]
+sources:
+  - "[[摘要-skywalking-源码调试]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/SkyWalking/源码调试]]"
 last_updated: 2026-05-02
 ---
 
@@ -25,3 +27,4 @@ logback 集成使用 apm-toolkit-logback-1.x 组件，可将 traceId 写入日�
 
 ## 关联连接
 - [[摘要-skywalking-源码调试]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/SkyWalking/源码调试]] — 原始素材

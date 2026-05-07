@@ -3,7 +3,8 @@ title: "访问者模式（Visitor Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 双分派]
 sources:
-  - raw/01-articles/设计模式/23.访问者模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/访问者模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -112,3 +113,4 @@ public class Test {
 - [[Iterator_Pattern]] — 迭代器模式
 - [[Composite_Pattern]] — 组合模式
 - [[Interpreter_Pattern]] — 解释器模式
+- [[raw/09-archive/设计模式/访问者模式]] — 原始素材

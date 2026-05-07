@@ -2,7 +2,9 @@
 title: "ACID事务"
 type: concept
 tags: [事务, 数据库, ACID]
-sources: [raw/01-articles/mysql/]
+sources:
+  - "[[摘要-mysql-基础知识]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/基础知识/数据库事务]]"
 last_updated: 2026-05-01
 ---
 
@@ -48,3 +50,4 @@ ACID 是数据库事务的四个基本特性，确保数据库在并发访问和
 - [[数据库隔离级别]] — 隔离级别定义
 - [[摘要-mysql-分布式事务]] — 来源
 - [[摘要-mysql-基础知识]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/mysql]] — 原始素材

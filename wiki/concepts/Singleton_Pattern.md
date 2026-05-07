@@ -3,7 +3,8 @@ title: "单例模式（Singleton Pattern）"
 type: concept
 tags: [设计模式, 创建型模式, Java, 线程安全]
 sources:
-  - raw/01-articles/设计模式/1.单例模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/单例模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -114,3 +115,4 @@ public class Singleton {
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Factory_Pattern]] — 工厂模式
 - [[Abstract_Factory_Pattern]] — 抽象工厂模式
+- [[raw/09-archive/设计模式/单例模式]] — 原始素材

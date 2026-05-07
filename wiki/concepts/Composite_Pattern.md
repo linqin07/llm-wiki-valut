@@ -3,7 +3,8 @@ title: "组合模式（Composite Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java, 树形结构]
 sources:
-  - raw/01-articles/设计模式/11.组合模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/组合模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -138,3 +139,4 @@ public class Test {
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Iterator_Pattern]] — 迭代器模式
 - [[Visitor_Pattern]] — 访问者模式
+- [[raw/09-archive/设计模式/组合模式]] — 原始素材

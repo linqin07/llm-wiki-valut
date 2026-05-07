@@ -2,7 +2,9 @@
 title: "摘要-mysql-基础知识"
 type: source
 tags: [MySQL, 基础, 事务, 锁, 日志]
-sources: [raw/01-articles/mysql/基础知识/]
+sources:
+  - "raw/09-archive/mysql/基础知识/"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/基础知识]]"
 last_updated: 2026-05-01
 ---
 
@@ -21,3 +23,4 @@ last_updated: 2026-05-01
 - [[undo-log]] — 回滚日志
 - [[binlog]] — 归档日志
 - [[MVCC]] — 多版本并发控制
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/基础知识]] — 原始素材

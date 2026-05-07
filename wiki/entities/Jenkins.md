@@ -2,7 +2,9 @@
 title: "Jenkins"
 type: entity
 tags: [CI/CD, 持续集成, DevOps, 开源]
-sources: [raw/01-articles/Java学习/构建工具/Jenkins安装.md]
+sources:
+  - "[[摘要-构建工具]]"
+actionLink: "[[raw/09-archive/Java学习/构建工具/Jenkins安装]]"
 last_updated: 2026-05-02
 ---
 
@@ -23,5 +25,7 @@ Jenkins 是开源的自动化服务器，用于实现 CI/CD（持续集成/持�
 ## 关联连接
 - [[Maven]] — 构建工具
 - [[GitLab]] — 代码仓库集成
-- 摘要-jenkins-安装 — 来源
+- [[JHipster]] — 全栈代码生成器
+- [[摘要-构建工具]] — 来源摘要
 - [[摘要-构建工具]] — 构建工具汇总
+- [[raw/09-archive/Java学习/构建工具/Jenkins安装]] — 原始素材

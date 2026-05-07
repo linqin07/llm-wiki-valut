@@ -2,7 +2,9 @@
 title: "摘要-llm-应用开发"
 type: source
 tags: [来源, LLM, AI, 大模型]
-sources: [raw/01-articles/大模型应用开发/1. 介绍.md, raw/01-articles/大模型应用开发/2.prompt.md]
+sources:
+  - "raw/09-archive/大模型应用开发/1. 介绍.md, raw/09-archive/大模型应用开发/2.prompt.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/大模型应用开发/1. 介绍]]"
 last_updated: 2026-05-02
 ---
 
@@ -11,4 +13,6 @@ last_updated: 2026-05-02
 
 ## 关联连接
 - [[Prompt_Engineering]] — 提示工程（已有页面）
-- RAG — 检索增强生成
+- [[RAG]] — 检索增强生成
+- [[raw/09-archive/设计模式/raw/09-archive/大模型应用开发/1. 介绍]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/大模型应用开发/2.prompt]] — 原始素材

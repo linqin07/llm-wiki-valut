@@ -2,7 +2,9 @@
 title: "B+树索引"
 type: concept
 tags: [索引, 数据结构, B+树, 性能]
-sources: [raw/01-articles/mysql/Mysql技术内幕.md]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/Mysql技术内幕]]"
 last_updated: 2026-05-01
 ---
 
@@ -67,3 +69,4 @@ SELECT * FROM table_name FORCE INDEX(index_name) WHERE condition;
 - [[SQL优化]] — 索引优化
 - [[摘要-mysql-技术内幕]] — 来源
 - [[摘要-数据结构]] — 数据结构汇总
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/Mysql技术内幕]] — 原始素材

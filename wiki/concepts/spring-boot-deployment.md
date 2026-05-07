@@ -2,7 +2,9 @@
 title: "spring-boot-deployment"
 type: concept
 tags: [Spring Boot, 部署, 打包, Maven]
-sources: [raw/01-articles/Spring-boot/spring-boot打包部署/]
+sources:
+  - "[[摘要-spring-boot-知识库]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -37,3 +39,4 @@ last_updated: 2026-05-01
 - [[Spring_Boot]] — 框架实体
 - [[spring-boot-multi-environment]] — 多环境配置
 - [[摘要-spring-boot-知识库]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/Spring-boot/spring-boot打包部署]] — 原始素材

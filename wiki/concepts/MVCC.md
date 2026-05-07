@@ -2,7 +2,9 @@
 title: "MVCC"
 type: concept
 tags: [并发控制, 事务, 快照]
-sources: [raw/01-articles/mysql/]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/Mysql技术内幕]]"
 last_updated: 2026-05-01
 ---
 
@@ -46,3 +48,4 @@ MVCC（Multi-Version Concurrency Control，多版本并发控制）是一种数�
 - [[undo-log]] — 存储旧版本数据
 - [[摘要-mysql-分布式事务]] — 来源
 - [[摘要-mysql-基础知识]] — 来源
+- [[raw/09-archive/设计模式/raw/09-archive/mysql]] — 原始素材

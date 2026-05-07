@@ -2,7 +2,12 @@
 title: "摘要-zookeeper-知识体系"
 type: source
 tags: [来源, ZooKeeper, 分布式]
-sources: [raw/01-articles/Linux/zookeeper/1.简介.md, raw/01-articles/Linux/zookeeper/2.下载安装zk.md, raw/01-articles/Linux/zookeeper/3.zk命令.md, raw/01-articles/Linux/zookeeper/4.原生API.md, raw/01-articles/Linux/zookeeper/5.应用场景.md, raw/01-articles/Linux/zookeeper/6.Apache Curator客户端API.md]
+sources:
+  - "raw/09-archive/Linux/zookeeper/1.简介.md"
+  - "raw/09-archive/Linux/zookeeper/2.下载安装zk.md"
+  - "raw/09-archive/Linux/zookeeper/3.zk命令.md"
+  # 另有 3 个原始素材文件，详见关联连接
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/1.简介]]"
 last_updated: 2026-05-02
 ---
 
@@ -12,3 +17,9 @@ ZooKeeper 知识体系共 6 篇，涵盖核心概念（Znode/临时节点/永久
 ## 关联连接
 - [[ZooKeeper]] — 分布式协调实体
 - Apache_Curator — 客户端
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/1.简介]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/2.下载安装zk]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/3.zk命令]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/4.原生API]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/5.应用场景]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Linux/zookeeper/6.Apache Curator客户端API]] — 原始素材

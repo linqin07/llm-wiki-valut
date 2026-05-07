@@ -2,7 +2,9 @@
 title: "Eureka"
 type: entity
 tags: [Spring-Cloud, Netflix, 服务注册, 服务发现]
-sources: [raw/01-articles/SpringCloud/1.Eureka服务注册中心.md]
+sources:
+  - "[[摘要-spring-cloud-微服务]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/SpringCloud/1.Eureka服务注册中心]]"
 last_updated: 2026-05-01
 ---
 
@@ -44,4 +46,6 @@ spring:
 - [[CAP定理]] — AP 原则的理论基础
 - [[Nacos]] — 替代方案（同时支持 CP 和 AP）
 - [[Spring_Cloud_Gateway]] — 通过 Eureka 实现服务发现路由
+- [[Feign]] — 声明式 HTTP 客户端
 - [[Spring_Boot]] — 基础框架
+- [[raw/09-archive/设计模式/raw/09-archive/SpringCloud/1.Eureka服务注册中心]] — 原始素材

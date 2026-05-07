@@ -3,7 +3,8 @@ title: "模板方法模式（Template Method Pattern）"
 type: concept
 tags: [设计模式, 行为型模式, Java, 继承, 代码复用]
 sources:
-  - raw/01-articles/设计模式/22.模板模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/模板方法模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -102,3 +103,4 @@ System.err.println(config2.create());
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Strategy_Pattern]] — 策略模式
 - [[Factory_Pattern]] — 工厂模式
+- [[raw/09-archive/设计模式/模板模式]] — 原始素材

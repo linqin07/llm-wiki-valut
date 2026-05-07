@@ -3,7 +3,8 @@ title: "享元模式（Flyweight Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java, 性能优化, 缓存]
 sources:
-  - raw/01-articles/设计模式/12.享元模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/享元模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -110,3 +111,4 @@ public class Test {
 - [[摘要-design-patterns-java]] — 来源摘要
 - [[Singleton_Pattern]] — 单例模式
 - [[Factory_Pattern]] — 工厂模式
+- [[raw/09-archive/设计模式/享元模式]] — 原始素材

@@ -2,7 +2,9 @@
 title: "摘要-mysql-分库分表"
 type: source
 tags: [MySQL, 分库分表, 分片, MERGE]
-sources: [raw/01-articles/mysql/分库分表/]
+sources:
+  - "raw/09-archive/mysql/分库分表/"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/分库分表]]"
 last_updated: 2026-05-01
 ---
 
@@ -15,3 +17,4 @@ last_updated: 2026-05-01
 - [[MySQL]] — 数据库系统
 - [[MyISAM]] — 存储引擎
 - [[分库分表]] — 数据库分片策略
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/分库分表]] — 原始素材

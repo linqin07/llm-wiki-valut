@@ -2,7 +2,10 @@
 title: "MyISAM"
 type: entity
 tags: [存储引擎, MySQL, OLAP]
-sources: [raw/01-articles/mysql/]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+  - "[[摘要-mysql-基础知识]]"
+actionLink: "[[raw/09-archive/mysql]]"
 last_updated: 2026-05-01
 ---
 
@@ -45,3 +48,4 @@ MyISAM 支持 MERGE 存储引擎，可用于实现逻辑分表：
 - [[分库分表]] — MERGE 引擎应用场景
 - [[摘要-mysql-技术内幕]] — 来源
 - [[摘要-mysql-基础知识]] — 来源
+- [[raw/09-archive/mysql]] — 原始素材

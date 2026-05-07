@@ -3,7 +3,8 @@ title: "外观模式（Facade Pattern）"
 type: concept
 tags: [设计模式, 结构型模式, Java, 简化接口]
 sources:
-  - raw/01-articles/设计模式/8.外观模式/
+  - "[[摘要-design-patterns-java]]"
+actionLink: "[[raw/09-archive/设计模式/外观模式]]"
 last_updated: 2026-05-01
 ---
 
@@ -95,3 +96,4 @@ public class Test {
 - [[Adapter_Pattern]] — 适配器模式
 - [[Decorator_Pattern]] — 装饰者模式
 - [[Mediator_Pattern]] — 中介者模式
+- [[raw/09-archive/设计模式/外观模式]] — 原始素材

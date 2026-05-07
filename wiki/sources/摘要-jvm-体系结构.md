@@ -2,7 +2,9 @@
 title: "摘要-jvm-体系结构"
 type: source
 tags: [来源, JVM, Java]
-sources: [raw/01-articles/Java学习/JVM/Java虚拟机.md, raw/01-articles/Java学习/JVM/JVM 参数.md, raw/01-articles/Java学习/JVM/系统缓慢JVM排查.md]
+sources:
+  - "raw/09-archive/Java学习/JVM/Java虚拟机.md, raw/09-archive/Java学习/JVM/JVM 参数.md, raw/09-archive/Java学习/JVM/系统缓慢JVM排查.md"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/Java虚拟机]]"
 last_updated: 2026-05-02
 ---
 
@@ -12,3 +14,6 @@ JVM 相关共 3 篇，全面覆盖 JVM 体系结构（内存结构/类加载子�
 ## 关联连接
 - [[JVM]] — 虚拟机实体
 - [[JVM调优]] — 调优方法论
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/Java虚拟机]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/JVM 参数]] — 原始素材
+- [[raw/09-archive/设计模式/raw/09-archive/Java学习/JVM/系统缓慢JVM排查]] — 原始素材

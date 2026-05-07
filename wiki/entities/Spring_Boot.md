@@ -7,7 +7,10 @@ tags:
   - 后端框架
   - 微服务
 sources:
-  - raw/01-articles/Spring-boot/
+  - "[[摘要-spring-boot-知识库]]"
+  - "[[摘要-spring-mvc-实践]]"
+  - "[[摘要-spring-技术点]]"
+actionLink: "[[raw/09-archive/Spring-boot]]"
 last_updated: 2026-05-01
 ---
 
@@ -46,3 +49,14 @@ Spring Boot 是基于 Spring 框架的快速开发脚手架，通过约定优于
 - [[JPA]] — 持久化整合
 - [[Spring_Security]] — 安全整合
 - [[Redis]] — 缓存整合
+- [[Feign]] — 声明式 HTTP 客户端
+- [[MongoDB]] — 文档数据库整合
+- [[MyBatis_Plus]] — MyBatis 增强工具
+- [[SPI机制]] — 服务发现机制（自动装配基础）
+- [[Thymeleaf]] — 模板引擎整合
+- [[Guava]] — Google 核心工具库
+- [[JHipster]] — 全栈代码生成器
+- [[spring-boot-exception-handler]] — 全局异常处理
+- [[spring-boot-interceptor]] — 请求拦截器
+- [[spring-boot-scheduled-tasks]] — 定时任务
+- [[raw/09-archive/Spring-boot]] — 原始素材

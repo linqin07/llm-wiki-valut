@@ -2,7 +2,9 @@
 title: "binlog"
 type: concept
 tags: [日志, 主从复制, 数据恢复]
-sources: [raw/01-articles/mysql/]
+sources:
+  - "[[摘要-mysql-技术内幕]]"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/Mysql技术内幕]]"
 last_updated: 2026-05-01
 ---
 

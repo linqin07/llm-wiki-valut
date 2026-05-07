@@ -2,7 +2,9 @@
 title: "摘要-mysql-sql面试题"
 type: source
 tags: [MySQL, SQL, 面试, LeetCode]
-sources: [raw/01-articles/mysql/sql面试题/]
+sources:
+  - "raw/09-archive/mysql/sql面试题/"
+actionLink: "[[raw/09-archive/设计模式/raw/09-archive/mysql/sql面试题]]"
 last_updated: 2026-05-01
 ---
 
@@ -14,3 +16,4 @@ last_updated: 2026-05-01
 
 - [[MySQL]] — 数据库系统
 - [[SQL优化]] — SQL 优化方法
+- [[raw/09-archive/设计模式/raw/09-archive/mysql/sql面试题]] — 原始素材

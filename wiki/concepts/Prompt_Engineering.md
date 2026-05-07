@@ -2,10 +2,10 @@
 title: "Prompt Engineering（提示工程）"
 type: concept
 tags: [提示工程, LLM, AI, 核心概念]
-sources: 
-  - raw/01-articles/提示设计策略  _  Gemini API.md
-  - raw/01-articles/Prompting best practices-Anthropic.md
-  - raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf
+sources:
+  - "[[摘要-llm-应用开发]]"
+  # 另有 2 个原始素材（Gemini API 策略、Anthropic 最佳实践）
+actionLink: "[[raw/09-archive/提示设计策略  _  Gemini API]]"
 last_updated: 2026-04-12
 ---
 
@@ -77,3 +77,7 @@ last_updated: 2026-04-12
 - [[Design_Patterns]] — 设计模式总览（相关领域）
 - [[摘要-design-patterns-java]] — 设计模式来源摘要
 - [[摘要-llm-应用开发]] — LLM 应用开发
+- [[摘要-python-环境配置]] — Python 环境配置（LLM 开发常用语言）
+- [[raw/09-archive/提示设计策略  _  Gemini API]] — 原始素材
+- [[raw/09-archive/Prompting best practices-Anthropic]] — 原始素材
+- [[raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf]] — 原始素材
