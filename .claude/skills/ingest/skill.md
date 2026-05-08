@@ -25,40 +25,6 @@ user-invocable: true
 2. **用户执行 `/ingest <path>`**：仅处理指定文件。
 3. **隐式触发**：用户说"把这个资料摄入知识库"、"导入这篇文章"时，自动执行 ingest。
 
-## 工具优先级
-
-遵循 CLAUDE.md 全局规则：**默认使用 CLI 工具**执行 vault 操作，以节约 token 消耗。仅当 CLI 工具不可用或操作失败时，回退到 Claude Code 内置工具（Read、Write、Edit、Grep）。
-
-### obsidian CLI 调用规范
-
-调用 `obsidian create` 时必须遵守以下规则：
-
-1. **必须使用 `path=` 参数**指定完整子路径，**禁止使用 `name=`**（`name=` 只会在 vault 根目录创建文件）：
-   ```bash
-   # 正确
-   obsidian create path="wiki/entities/MyEntity.md" content='...'
-   # 错误 — 会创建在根目录
-   obsidian create name="MyEntity" content='...'
-   ```
-
-2. **`content` 参数必须用单引号 `'...'` 包裹**，否则 bash 会解释反引号、`$`、`()` 等特殊字符，导致内容被破坏：
-   ```bash
-   # 正确 — 单引号，内容原样传递
-   obsidian create path="wiki/concepts/test.md" content='## 定义
-   ```java
-   @SpringBootApplication
-   public class App {}
-   ```
-   '
-   # 错误 — 双引号，反引号和 $ 会被 bash 解析
-   obsidian create path="wiki/concepts/test.md" content="## 定义
-   ```java
-   @SpringBootApplication
-   ```"
-   ```
-
-3. 如果 obsidian CLI 调用失败或内容被破坏，**立即回退到 Write 工具**，写入相同的 `path` 对应的绝对路径。
-
 ## 编译流水线
 
 对每个待处理源文件，严格按以下步骤执行：
@@ -86,7 +52,7 @@ user-invocable: true
 title: "摘要-文件slug"
 type: source
 tags: [来源, 原始文件]
-sources: [raw/01-articles/xxx.md]
+sources: [raw/09-archi/xxx.md]
 last_updated: YYYY-MM-DD
 ---
 
@@ -109,8 +75,7 @@ last_updated: YYYY-MM-DD
 - 概念 → `wiki/concepts/`
 
 **处理逻辑：**
-1. 页面不存在 → 使用 `obsidian create` 创建新页面（失败时回退到 Write 工具）
-2. 页面已存在 → 使用 `obsidian read` 读取现有内容，**增量合并**新信息
+
 3. **发现冲突** → **立即暂停**，向用户报告冲突内容，询问处理方式后再继续
 
 **页面模板：**
